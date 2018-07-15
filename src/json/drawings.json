@@ -1,0 +1,5664 @@
+{
+  "austriaLotto": {
+    "past": [
+      {
+        "nr": 2743,
+        "currency": "EUR",
+        "date": {
+          "full": "Die Lottozahlen vom Sonntag, den 24.06.2018",
+          "day": 24,
+          "month": 6,
+          "year": 2018,
+          "hour": 18,
+          "minute": 30,
+          "dayOfWeek": "Sonntag"
+        },
+        "closingDate": "24.06.2018, 18:00",
+        "lateClosingDate": "24.06.2018, 18:00",
+        "drawingDate": "24.06.2018, 18:30",
+        "numbers": [
+          20,
+          23,
+          28,
+          38,
+          43,
+          45
+        ],
+        "Zusatzzahl": [
+          41
+        ],
+        "joker": 361631,
+        "jackpot": "1",
+        "marketingJackpot": "1",
+        "specialMarketingJackpot": "1",
+        "climbedSince": 1,
+        "Winners": 251698,
+        "odds": {
+          "rank0": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 0
+          },
+          "rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 74560137
+          },
+          "rank2": {
+            "winners": 1,
+            "specialPrize": 0,
+            "prize": 19108150
+          },
+          "rank3": {
+            "winners": 68,
+            "specialPrize": 0,
+            "prize": 164470
+          },
+          "rank8": {
+            "winners": 182363,
+            "specialPrize": 0,
+            "prize": 120
+          },
+          "rank4": {
+            "winners": 209,
+            "specialPrize": 0,
+            "prize": 16050
+          },
+          "rank5": {
+            "winners": 4026,
+            "specialPrize": 0,
+            "prize": 4620
+          },
+          "rank6": {
+            "winners": 4997,
+            "specialPrize": 0,
+            "prize": 1670
+          },
+          "rank7": {
+            "winners": 60034,
+            "specialPrize": 0,
+            "prize": 560
+          }
+        },
+        "jokerWinners": 104125,
+        "jokerOdds": {
+          "rank0": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 0
+          },
+          "rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 32073700
+          },
+          "rank2": {
+            "winners": 11,
+            "specialPrize": 0,
+            "prize": 770000
+          },
+          "rank3": {
+            "winners": 92,
+            "specialPrize": 0,
+            "prize": 77000
+          },
+          "rank4": {
+            "winners": 999,
+            "specialPrize": 0,
+            "prize": 7700
+          },
+          "rank5": {
+            "winners": 9351,
+            "specialPrize": 0,
+            "prize": 700
+          },
+          "rank6": {
+            "winners": 93672,
+            "specialPrize": 0,
+            "prize": 150
+          }
+        }
+      }
+    ],
+    "last": {
+      "nr": 2744,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Mittwoch, den 27.06.2018",
+        "day": 27,
+        "month": 6,
+        "year": 2018,
+        "hour": 19,
+        "minute": 0,
+        "dayOfWeek": "Mittwoch"
+      },
+      "closingDate": "27.06.2018, 18:30",
+      "lateClosingDate": "27.06.2018, 18:30",
+      "drawingDate": "27.06.2018, 19:00",
+      "jackpot": "1.5",
+      "marketingJackpot": "1.5",
+      "specialMarketingJackpot": "1.5",
+      "climbedSince": 2
+    },
+    "next": {
+      "nr": 2745,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Sonntag, den 01.07.2018",
+        "day": 1,
+        "month": 7,
+        "year": 2018,
+        "hour": 18,
+        "minute": 30,
+        "dayOfWeek": "Sonntag"
+      },
+      "closingDate": "01.07.2018, 18:00",
+      "lateClosingDate": "01.07.2018, 18:00",
+      "drawingDate": "01.07.2018, 18:30",
+      "jackpot": "1.5",
+      "marketingJackpot": "1.5",
+      "specialMarketingJackpot": "1.5",
+      "climbedSince": 3
+    }
+  },
+  "swedishLotto": {
+    "last": {
+      "nr": 2581,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Mittwoch, den 27.06.2018",
+        "day": 27,
+        "month": 6,
+        "year": 2018,
+        "hour": 18,
+        "minute": 20,
+        "dayOfWeek": "Mittwoch"
+      },
+      "closingDate": "27.06.2018, 17:15",
+      "lateClosingDate": "27.06.2018, 17:15",
+      "drawingDate": "27.06.2018, 18:20",
+      "numbers": [
+        4,
+        10,
+        11,
+        14,
+        21,
+        23,
+        29
+      ],
+      "bonus": [
+        3,
+        15,
+        17,
+        35
+      ],
+      "swedishLotto2": {
+        "numbers": [
+          5,
+          10,
+          18,
+          19,
+          26,
+          33,
+          35
+        ],
+        "additional": [
+          8,
+          17,
+          24,
+          29
+        ]
+      },
+      "jackpot": "1",
+      "marketingJackpot": "9",
+      "specialMarketingJackpot": "9",
+      "climbedSince": 5,
+      "Winners": 55915,
+      "odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank2": {
+          "winners": 13,
+          "specialPrize": 0,
+          "prize": 253087
+        },
+        "rank3": {
+          "winners": 94,
+          "specialPrize": 0,
+          "prize": 20416
+        },
+        "rank4": {
+          "winners": 3930,
+          "specialPrize": 0,
+          "prize": 829
+        },
+        "rank5": {
+          "winners": 51878,
+          "specialPrize": 0,
+          "prize": 174
+        }
+      },
+      "swedishLotto2Winners": 40605,
+      "swedishLotto2Odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank2": {
+          "winners": 13,
+          "specialPrize": 0,
+          "prize": 227540
+        },
+        "rank3": {
+          "winners": 49,
+          "specialPrize": 0,
+          "prize": 35210
+        },
+        "rank4": {
+          "winners": 2493,
+          "specialPrize": 0,
+          "prize": 1186
+        },
+        "rank5": {
+          "winners": 38050,
+          "specialPrize": 0,
+          "prize": 212
+        }
+      },
+      "swedishJokerWinners": 10381,
+      "swedishJokerOdds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 96439958
+        },
+        "rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 2410999
+        },
+        "rank3": {
+          "winners": 7,
+          "specialPrize": 0,
+          "prize": 192880
+        },
+        "rank4": {
+          "winners": 92,
+          "specialPrize": 0,
+          "prize": 19288
+        },
+        "rank5": {
+          "winners": 903,
+          "specialPrize": 0,
+          "prize": 1929
+        },
+        "rank6": {
+          "winners": 9379,
+          "specialPrize": 0,
+          "prize": 772
+        }
+      },
+      "dromVinstenWinners": 0,
+      "dromVinstenOdds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        }
+      },
+      "joker": 9480342,
+      "dromvinstenJackpot": "0",
+      "dromvinstenMarketingJackpot": "8"
+    },
+    "next": {
+      "nr": 2582,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Samstag, den 30.06.2018",
+        "day": 30,
+        "month": 6,
+        "year": 2018,
+        "hour": 18,
+        "minute": 30,
+        "dayOfWeek": "Samstag"
+      },
+      "closingDate": "30.06.2018, 17:15",
+      "lateClosingDate": "30.06.2018, 17:15",
+      "drawingDate": "30.06.2018, 18:30",
+      "jackpot": "9",
+      "marketingJackpot": "9",
+      "specialMarketingJackpot": "9",
+      "climbedSince": 6,
+      "dromvinstenJackpot": "0",
+      "dromvinstenMarketingJackpot": "8"
+    }
+  },
+  "euroMillions": {
+    "last": {
+      "nr": 1087,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Dienstag, den 26.06.2018",
+        "day": 26,
+        "month": 6,
+        "year": 2018,
+        "hour": 21,
+        "minute": 30,
+        "dayOfWeek": "Dienstag"
+      },
+      "closingDate": "26.06.2018, 20:30",
+      "lateClosingDate": "26.06.2018, 21:15",
+      "drawingDate": "26.06.2018, 21:30",
+      "numbers": [
+        15,
+        16,
+        20,
+        34,
+        50
+      ],
+      "stars": [
+        4,
+        7
+      ],
+      "jackpot": "24",
+      "marketingJackpot": "24",
+      "specialMarketingJackpot": "24",
+      "climbedSince": 2,
+      "Winners": 1191611,
+      "odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 2465771446
+        },
+        "rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank3": {
+          "winners": 2,
+          "specialPrize": 0,
+          "prize": 43163270
+        },
+        "rank8": {
+          "winners": 18939,
+          "specialPrize": 0,
+          "prize": 1630
+        },
+        "rank9": {
+          "winners": 20424,
+          "specialPrize": 0,
+          "prize": 1600
+        },
+        "rank10": {
+          "winners": 43238,
+          "specialPrize": 0,
+          "prize": 1430
+        },
+        "rank4": {
+          "winners": 19,
+          "specialPrize": 0,
+          "prize": 419830
+        },
+        "rank13": {
+          "winners": 668626,
+          "specialPrize": 0,
+          "prize": 480
+        },
+        "rank5": {
+          "winners": 383,
+          "specialPrize": 0,
+          "prize": 22210
+        },
+        "rank6": {
+          "winners": 1168,
+          "specialPrize": 0,
+          "prize": 10160
+        },
+        "rank11": {
+          "winners": 110788,
+          "specialPrize": 0,
+          "prize": 790
+        },
+        "rank7": {
+          "winners": 893,
+          "specialPrize": 0,
+          "prize": 7540
+        },
+        "rank12": {
+          "winners": 327131,
+          "specialPrize": 0,
+          "prize": 800
+        }
+      }
+    },
+    "next": {
+      "nr": 1088,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Freitag, den 29.06.2018",
+        "day": 29,
+        "month": 6,
+        "year": 2018,
+        "hour": 21,
+        "minute": 30,
+        "dayOfWeek": "Freitag"
+      },
+      "closingDate": "29.06.2018, 20:30",
+      "lateClosingDate": "29.06.2018, 21:15",
+      "drawingDate": "29.06.2018, 21:30",
+      "jackpot": "36",
+      "marketingJackpot": "36",
+      "specialMarketingJackpot": "36",
+      "climbedSince": 3
+    }
+  },
+  "ozLotto": {
+    "last": {
+      "nr": 1271,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Dienstag, den 26.06.2018",
+        "day": 26,
+        "month": 6,
+        "year": 2018,
+        "hour": 12,
+        "minute": 30,
+        "dayOfWeek": "Dienstag"
+      },
+      "closingDate": "26.06.2018, 11:30",
+      "lateClosingDate": "26.06.2018, 12:15",
+      "drawingDate": "26.06.2018, 12:30",
+      "numbers": [
+        10,
+        11,
+        14,
+        22,
+        32,
+        34,
+        36
+      ],
+      "bonus": [
+        2,
+        30
+      ],
+      "jackpot": "3.17280223",
+      "marketingJackpot": "1",
+      "specialMarketingJackpot": "1",
+      "climbedSince": 2,
+      "Winners": 177783,
+      "odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank2": {
+          "winners": 4,
+          "specialPrize": 0,
+          "prize": 1807618
+        },
+        "rank3": {
+          "winners": 49,
+          "specialPrize": 0,
+          "prize": 303802
+        },
+        "rank4": {
+          "winners": 292,
+          "specialPrize": 0,
+          "prize": 26220
+        },
+        "rank5": {
+          "winners": 2591,
+          "specialPrize": 0,
+          "prize": 3446
+        },
+        "rank6": {
+          "winners": 61278,
+          "specialPrize": 0,
+          "prize": 1666
+        },
+        "rank7": {
+          "winners": 113569,
+          "specialPrize": 0,
+          "prize": 1009
+        }
+      }
+    },
+    "next": {
+      "nr": 1272,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Dienstag, den 03.07.2018",
+        "day": 3,
+        "month": 7,
+        "year": 2018,
+        "hour": 12,
+        "minute": 30,
+        "dayOfWeek": "Dienstag"
+      },
+      "closingDate": "03.07.2018, 11:30",
+      "lateClosingDate": "03.07.2018, 12:15",
+      "drawingDate": "03.07.2018, 12:30",
+      "jackpot": "6",
+      "marketingJackpot": "6",
+      "specialMarketingJackpot": "6",
+      "climbedSince": 3
+    }
+  },
+  "bitCoinLotto": {
+    "last": {
+      "nr": 166,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Dienstag, den 26.06.2018",
+        "day": 26,
+        "month": 6,
+        "year": 2018,
+        "hour": 21,
+        "minute": 30,
+        "dayOfWeek": "Dienstag"
+      },
+      "closingDate": "26.06.2018, 21:00",
+      "lateClosingDate": "26.06.2018, 21:00",
+      "drawingDate": "26.06.2018, 21:30",
+      "numbers": [
+        15,
+        19,
+        20,
+        25,
+        27,
+        38
+      ],
+      "jackpot": "0.00228",
+      "marketingJackpot": "0.00228",
+      "specialMarketingJackpot": "0.00228",
+      "climbedSince": -1,
+      "Winners": 0,
+      "odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank3": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 5000
+        },
+        "rank4": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 500
+        },
+        "rank5": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 150
+        }
+      }
+    },
+    "next": {
+      "nr": 167,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Mittwoch, den 27.06.2018",
+        "day": 27,
+        "month": 6,
+        "year": 2018,
+        "hour": 21,
+        "minute": 30,
+        "dayOfWeek": "Mittwoch"
+      },
+      "closingDate": "27.06.2018, 21:00",
+      "lateClosingDate": "27.06.2018, 21:00",
+      "drawingDate": "27.06.2018, 21:30",
+      "jackpot": "0.00231",
+      "marketingJackpot": "0.00231",
+      "specialMarketingJackpot": "0.00231",
+      "climbedSince": -1
+    }
+  },
+  "ozPowerBall": {
+    "last": {
+      "nr": 1153,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Donnerstag, den 21.06.2018",
+        "day": 21,
+        "month": 6,
+        "year": 2018,
+        "hour": 12,
+        "minute": 30,
+        "dayOfWeek": "Donnerstag"
+      },
+      "closingDate": "21.06.2018, 11:30",
+      "lateClosingDate": "21.06.2018, 12:15",
+      "drawingDate": "21.06.2018, 12:30",
+      "numbers": [
+        2,
+        5,
+        9,
+        13,
+        24,
+        31,
+        35
+      ],
+      "powerBall": [
+        16
+      ],
+      "jackpot": "1.91795132",
+      "marketingJackpot": "2",
+      "specialMarketingJackpot": "2",
+      "climbedSince": 1,
+      "Winners": 247082,
+      "odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank2": {
+          "winners": 1,
+          "specialPrize": 0,
+          "prize": 7948815
+        },
+        "rank3": {
+          "winners": 13,
+          "specialPrize": 0,
+          "prize": 373662
+        },
+        "rank8": {
+          "winners": 57385,
+          "specialPrize": 0,
+          "prize": 1154
+        },
+        "rank9": {
+          "winners": 166875,
+          "specialPrize": 0,
+          "prize": 697
+        },
+        "rank4": {
+          "winners": 275,
+          "specialPrize": 0,
+          "prize": 32116
+        },
+        "rank5": {
+          "winners": 622,
+          "specialPrize": 0,
+          "prize": 10651
+        },
+        "rank6": {
+          "winners": 9229,
+          "specialPrize": 0,
+          "prize": 4641
+        },
+        "rank7": {
+          "winners": 12682,
+          "specialPrize": 0,
+          "prize": 2647
+        }
+      }
+    },
+    "next": {
+      "nr": 1154,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Donnerstag, den 28.06.2018",
+        "day": 28,
+        "month": 6,
+        "year": 2018,
+        "hour": 12,
+        "minute": 30,
+        "dayOfWeek": "Donnerstag"
+      },
+      "closingDate": "28.06.2018, 11:30",
+      "lateClosingDate": "28.06.2018, 12:15",
+      "drawingDate": "28.06.2018, 12:30",
+      "jackpot": "3",
+      "marketingJackpot": "2",
+      "specialMarketingJackpot": "2",
+      "climbedSince": 2
+    }
+  },
+  "keNow": {
+    "past": [
+      {
+        "nr": 724347,
+        "currency": "EUR",
+        "date": {
+          "full": "Die Lottozahlen vom Mittwoch, den 27.06.2018",
+          "day": 27,
+          "month": 6,
+          "year": 2018,
+          "hour": 18,
+          "minute": 58,
+          "dayOfWeek": "Mittwoch"
+        },
+        "closingDate": "27.06.2018, 18:57",
+        "lateClosingDate": "27.06.2018, 18:58",
+        "drawingDate": "27.06.2018, 18:58",
+        "numbers": [
+          2,
+          17,
+          21,
+          22,
+          24,
+          27,
+          28,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          43,
+          44,
+          46,
+          50,
+          54,
+          56,
+          62
+        ],
+        "jackpot": "1",
+        "marketingJackpot": "1.5",
+        "specialMarketingJackpot": "1.5",
+        "climbedSince": 1,
+        "Winners": 0,
+        "odds": {
+          "KENOW8_rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 1000000
+          },
+          "KENOW8_rank2": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 10000
+          },
+          "KENOW8_rank5": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 100
+          },
+          "KENOW8_rank6": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 100
+          },
+          "KENOW8_rank3": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 1000
+          },
+          "KENOW8_rank4": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 200
+          },
+          "KENOW1_rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 150
+          },
+          "KENOW5_rank3": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 200
+          },
+          "KENOW5_rank2": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 500
+          },
+          "KENOW4_rank2": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 200
+          },
+          "KENOW4_rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 2000
+          },
+          "KENOW7_rank3": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 1000
+          },
+          "KENOW7_rank2": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 10000
+          },
+          "KENOW7_rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 100000
+          },
+          "KENOW7_rank4": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 100
+          },
+          "KENOW2_rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 500
+          },
+          "KENOW9_rank6": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 200
+          },
+          "KENOW4_rank3": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 100
+          },
+          "KENOW9_rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 5000000
+          },
+          "KENOW9_rank2": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 100000
+          },
+          "KENOW9_rank3": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 1000
+          },
+          "KENOW9_rank4": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 500
+          },
+          "KENOW9_rank5": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 200
+          },
+          "KENOW5_rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 10000
+          },
+          "KENOW10_rank3": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 10000
+          },
+          "rank0": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 0
+          },
+          "KENOW10_rank2": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 100000
+          },
+          "KENOW10_rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 10000000
+          },
+          "KENOW6_rank2": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 1000
+          },
+          "KENOW10_rank7": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 200
+          },
+          "KENOW6_rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 50000
+          },
+          "KENOW10_rank6": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 200
+          },
+          "KENOW6_rank4": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 100
+          },
+          "KENOW10_rank5": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 500
+          },
+          "KENOW6_rank3": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 200
+          },
+          "KENOW10_rank4": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 1000
+          },
+          "KENOW3_rank2": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 100
+          },
+          "KENOW3_rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 1500
+          }
+        }
+      }
+    ],
+    "last": {
+      "nr": 724348,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Mittwoch, den 27.06.2018",
+        "day": 27,
+        "month": 6,
+        "year": 2018,
+        "hour": 19,
+        "minute": 2,
+        "dayOfWeek": "Mittwoch"
+      },
+      "closingDate": "27.06.2018, 19:01",
+      "lateClosingDate": "27.06.2018, 19:02",
+      "drawingDate": "27.06.2018, 19:02",
+      "jackpot": "1",
+      "marketingJackpot": "1.5",
+      "specialMarketingJackpot": "1.5",
+      "climbedSince": 1
+    },
+    "next": {
+      "nr": 724349,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Mittwoch, den 27.06.2018",
+        "day": 27,
+        "month": 6,
+        "year": 2018,
+        "hour": 19,
+        "minute": 6,
+        "dayOfWeek": "Mittwoch"
+      },
+      "closingDate": "27.06.2018, 19:05",
+      "lateClosingDate": "27.06.2018, 19:06",
+      "drawingDate": "27.06.2018, 19:06",
+      "jackpot": "1",
+      "marketingJackpot": "1.5",
+      "specialMarketingJackpot": "1.5",
+      "climbedSince": 1
+    }
+  },
+  "germanKeno": {
+    "past": [
+      {
+        "nr": 8661,
+        "currency": "EUR",
+        "date": {
+          "full": "Die Lottozahlen vom Dienstag, den 26.06.2018",
+          "day": 26,
+          "month": 6,
+          "year": 2018,
+          "hour": 19,
+          "minute": 10,
+          "dayOfWeek": "Dienstag"
+        },
+        "closingDate": "26.06.2018, 19:00",
+        "lateClosingDate": "26.06.2018, 19:00",
+        "drawingDate": "26.06.2018, 19:10",
+        "numbers": [
+          3,
+          8,
+          9,
+          10,
+          12,
+          14,
+          15,
+          16,
+          21,
+          22,
+          27,
+          33,
+          35,
+          46,
+          50,
+          54,
+          55,
+          60,
+          63,
+          69
+        ],
+        "jackpot": "1",
+        "marketingJackpot": "1",
+        "specialMarketingJackpot": "1",
+        "climbedSince": 1,
+        "Winners": 0,
+        "odds": {
+          "KENOTYPE9_rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 5000000
+          },
+          "KENOTYPE9_rank2": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 100000
+          },
+          "KENOTYPE9_rank3": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 2000
+          },
+          "KENOTYPE9_rank4": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 500
+          },
+          "KENOTYPE9_rank5": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 200
+          },
+          "KENOTYPE9_rank6": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 200
+          },
+          "KENOTYPE4_rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 2200
+          },
+          "KENOTYPE4_rank2": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 200
+          },
+          "KENOTYPE4_rank3": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 100
+          },
+          "KENOTYPE6_rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 50000
+          },
+          "KENOTYPE10_rank2": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 100000
+          },
+          "KENOTYPE10_rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 10000000
+          },
+          "KENOTYPE10_rank4": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 1500
+          },
+          "KENOTYPE10_rank3": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 10000
+          },
+          "KENOTYPE10_rank6": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 200
+          },
+          "KENOTYPE10_rank5": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 500
+          },
+          "KENOTYPE6_rank3": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 200
+          },
+          "KENOTYPE6_rank2": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 1500
+          },
+          "KENOTYPE6_rank4": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 100
+          },
+          "KENOTYPE3_rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 1600
+          },
+          "KENOTYPE3_rank2": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 100
+          },
+          "KENOTYPE5_rank3": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 200
+          },
+          "KENOTYPE5_rank2": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 700
+          },
+          "KENOTYPE8_rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 1000000
+          },
+          "KENOTYPE5_rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 10000
+          },
+          "KENOTYPE10_rank7": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 200
+          },
+          "KENOTYPE8_rank3": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 1500
+          },
+          "KENOTYPE8_rank2": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 10000
+          },
+          "KENOTYPE8_rank5": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 100
+          },
+          "KENOTYPE8_rank4": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 200
+          },
+          "KENOTYPE8_rank6": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 100
+          },
+          "KENOTYPE7_rank4": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 100
+          },
+          "rank0": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 0
+          },
+          "KENOTYPE7_rank3": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 1200
+          },
+          "KENOTYPE7_rank2": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 10000
+          },
+          "KENOTYPE7_rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 100000
+          },
+          "KENOTYPE2_rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 600
+          }
+        },
+        "plus5Winners": 0,
+        "plus5Odds": {
+          "rank0": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 0
+          },
+          "rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 500000
+          },
+          "rank2": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 50000
+          },
+          "rank3": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 5000
+          },
+          "rank4": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 500
+          },
+          "rank5": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 200
+          }
+        },
+        "plus5": "52081"
+      }
+    ],
+    "last": {
+      "nr": 8662,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Mittwoch, den 27.06.2018",
+        "day": 27,
+        "month": 6,
+        "year": 2018,
+        "hour": 19,
+        "minute": 10,
+        "dayOfWeek": "Mittwoch"
+      },
+      "closingDate": "27.06.2018, 19:00",
+      "lateClosingDate": "27.06.2018, 19:00",
+      "drawingDate": "27.06.2018, 19:10",
+      "jackpot": "1",
+      "marketingJackpot": "1",
+      "specialMarketingJackpot": "1",
+      "climbedSince": 1
+    },
+    "next": {
+      "nr": 8663,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Donnerstag, den 28.06.2018",
+        "day": 28,
+        "month": 6,
+        "year": 2018,
+        "hour": 19,
+        "minute": 10,
+        "dayOfWeek": "Donnerstag"
+      },
+      "closingDate": "28.06.2018, 19:00",
+      "lateClosingDate": "28.06.2018, 19:00",
+      "drawingDate": "28.06.2018, 19:10",
+      "jackpot": "1",
+      "marketingJackpot": "1",
+      "specialMarketingJackpot": "1",
+      "climbedSince": 1
+    }
+  },
+  "markSix": {
+    "last": {
+      "nr": 2017223,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Dienstag, den 26.06.2018",
+        "day": 26,
+        "month": 6,
+        "year": 2018,
+        "hour": 15,
+        "minute": 30,
+        "dayOfWeek": "Dienstag"
+      },
+      "closingDate": "26.06.2018, 15:15",
+      "lateClosingDate": "26.06.2018, 15:15",
+      "drawingDate": "26.06.2018, 15:30",
+      "numbers": [
+        7,
+        8,
+        12,
+        17,
+        33,
+        42
+      ],
+      "extra": [
+        26
+      ],
+      "jackpot": "1",
+      "marketingJackpot": "1",
+      "specialMarketingJackpot": "1",
+      "climbedSince": 1,
+      "Winners": 89022,
+      "odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank2": {
+          "winners": 2,
+          "specialPrize": 0,
+          "prize": 7090736
+        },
+        "rank3": {
+          "winners": 72,
+          "specialPrize": 0,
+          "prize": 525191
+        },
+        "rank4": {
+          "winners": 254,
+          "specialPrize": 0,
+          "prize": 104907
+        },
+        "rank5": {
+          "winners": 4228,
+          "specialPrize": 0,
+          "prize": 6994
+        },
+        "rank6": {
+          "winners": 6498,
+          "specialPrize": 0,
+          "prize": 3497
+        },
+        "rank7": {
+          "winners": 77968,
+          "specialPrize": 0,
+          "prize": 437
+        }
+      }
+    },
+    "next": {
+      "nr": 2017224,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Donnerstag, den 28.06.2018",
+        "day": 28,
+        "month": 6,
+        "year": 2018,
+        "hour": 15,
+        "minute": 30,
+        "dayOfWeek": "Donnerstag"
+      },
+      "closingDate": "28.06.2018, 15:15",
+      "lateClosingDate": "28.06.2018, 15:15",
+      "drawingDate": "28.06.2018, 15:30",
+      "jackpot": "1",
+      "marketingJackpot": "1",
+      "specialMarketingJackpot": "1",
+      "climbedSince": 2
+    }
+  },
+  "swissLotto": {
+    "past": [
+      {
+        "nr": 468,
+        "currency": "EUR",
+        "date": {
+          "full": "Die Lottozahlen vom Samstag, den 23.06.2018",
+          "day": 23,
+          "month": 6,
+          "year": 2018,
+          "hour": 18,
+          "minute": 20,
+          "dayOfWeek": "Samstag"
+        },
+        "closingDate": "23.06.2018, 17:00",
+        "lateClosingDate": "23.06.2018, 17:00",
+        "drawingDate": "23.06.2018, 18:20",
+        "numbers": [
+          3,
+          5,
+          15,
+          16,
+          33,
+          40
+        ],
+        "luckyNumber": [
+          1
+        ],
+        "swissLottoJoker": {
+          "numbers": [
+            104427
+          ]
+        },
+        "jackpot": "13.1",
+        "marketingJackpot": "13.1",
+        "specialMarketingJackpot": "13.1",
+        "climbedSince": 20,
+        "Winners": 51339,
+        "odds": {
+          "rank0": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 0
+          },
+          "rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 0
+          },
+          "rank2": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 0
+          },
+          "rank3": {
+            "winners": 16,
+            "specialPrize": 0,
+            "prize": 430358
+          },
+          "rank8": {
+            "winners": 41657,
+            "specialPrize": 0,
+            "prize": 724
+          },
+          "rank4": {
+            "winners": 59,
+            "specialPrize": 0,
+            "prize": 86686
+          },
+          "rank5": {
+            "winners": 442,
+            "specialPrize": 0,
+            "prize": 12769
+          },
+          "rank6": {
+            "winners": 2753,
+            "specialPrize": 0,
+            "prize": 5323
+          },
+          "rank7": {
+            "winners": 6412,
+            "specialPrize": 0,
+            "prize": 2211
+          }
+        },
+        "swissLottoJokerWinners": 1634,
+        "swissLottoJokerOdds": {
+          "rank0": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 0
+          },
+          "rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 0
+          },
+          "rank2": {
+            "winners": 2,
+            "specialPrize": 0,
+            "prize": 866863
+          },
+          "rank3": {
+            "winners": 8,
+            "specialPrize": 0,
+            "prize": 86686
+          },
+          "rank4": {
+            "winners": 155,
+            "specialPrize": 0,
+            "prize": 8669
+          },
+          "rank5": {
+            "winners": 1469,
+            "specialPrize": 0,
+            "prize": 867
+          }
+        },
+        "replay": 7,
+        "joker": 104427,
+        "jokerJackpot": "0.6"
+      }
+    ],
+    "last": {
+      "nr": 469,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Mittwoch, den 27.06.2018",
+        "day": 27,
+        "month": 6,
+        "year": 2018,
+        "hour": 21,
+        "minute": 40,
+        "dayOfWeek": "Mittwoch"
+      },
+      "closingDate": "27.06.2018, 19:00",
+      "lateClosingDate": "27.06.2018, 19:00",
+      "drawingDate": "27.06.2018, 21:40",
+      "jackpot": "13.9",
+      "marketingJackpot": "13.9",
+      "specialMarketingJackpot": "13.9",
+      "climbedSince": 21,
+      "replay": 0,
+      "joker": 0,
+      "jokerJackpot": "0.6"
+    },
+    "next": {
+      "nr": 470,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Samstag, den 30.06.2018",
+        "day": 30,
+        "month": 6,
+        "year": 2018,
+        "hour": 19,
+        "minute": 20,
+        "dayOfWeek": "Samstag"
+      },
+      "closingDate": "30.06.2018, 17:00",
+      "lateClosingDate": "30.06.2018, 17:00",
+      "drawingDate": "30.06.2018, 19:20",
+      "jackpot": "13.9",
+      "marketingJackpot": "13.9",
+      "specialMarketingJackpot": "13.9",
+      "climbedSince": 22,
+      "replay": 0,
+      "joker": 0,
+      "jokerJackpot": "0.6"
+    }
+  },
+  "cash4Life": {
+    "last": {
+      "nr": 421,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Dienstag, den 26.06.2018",
+        "day": 26,
+        "month": 6,
+        "year": 2018,
+        "hour": 3,
+        "minute": 0,
+        "dayOfWeek": "Dienstag"
+      },
+      "closingDate": "26.06.2018, 02:00",
+      "lateClosingDate": "26.06.2018, 02:00",
+      "drawingDate": "26.06.2018, 03:00",
+      "numbers": [
+        12,
+        33,
+        37,
+        55,
+        58
+      ],
+      "cashBall": [
+        4
+      ],
+      "jackpot": "1",
+      "marketingJackpot": "0",
+      "specialMarketingJackpot": "0",
+      "climbedSince": 28,
+      "Winners": 53641,
+      "odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100000
+        },
+        "rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100000
+        },
+        "rank3": {
+          "winners": 4,
+          "specialPrize": 0,
+          "prize": 20000
+        },
+        "rank8": {
+          "winners": 14120,
+          "specialPrize": 0,
+          "prize": 300
+        },
+        "rank9": {
+          "winners": 33749,
+          "specialPrize": 0,
+          "prize": 200
+        },
+        "rank4": {
+          "winners": 15,
+          "specialPrize": 0,
+          "prize": 10000
+        },
+        "rank5": {
+          "winners": 275,
+          "specialPrize": 0,
+          "prize": 4000
+        },
+        "rank6": {
+          "winners": 754,
+          "specialPrize": 0,
+          "prize": 2000
+        },
+        "rank7": {
+          "winners": 4724,
+          "specialPrize": 0,
+          "prize": 1000
+        }
+      }
+    },
+    "next": {
+      "nr": 422,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Freitag, den 29.06.2018",
+        "day": 29,
+        "month": 6,
+        "year": 2018,
+        "hour": 3,
+        "minute": 0,
+        "dayOfWeek": "Freitag"
+      },
+      "closingDate": "29.06.2018, 02:00",
+      "lateClosingDate": "29.06.2018, 02:00",
+      "drawingDate": "29.06.2018, 03:00",
+      "jackpot": "0",
+      "marketingJackpot": "0",
+      "specialMarketingJackpot": "0",
+      "climbedSince": 29
+    }
+  },
+  "elGordo": {
+    "last": {
+      "nr": 107,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Freitag, den 22.12.2017",
+        "day": 22,
+        "month": 12,
+        "year": 2017,
+        "hour": 9,
+        "minute": 15,
+        "dayOfWeek": "Freitag"
+      },
+      "closingDate": "22.12.2017, 09:00",
+      "lateClosingDate": "22.12.2017, 09:00",
+      "drawingDate": "22.12.2017, 09:15",
+      "numbers": {
+        
+      },
+      "jackpot": "2300",
+      "marketingJackpot": "2300",
+      "climbedSince": 4,
+      "Winners": 0,
+      "odds": {
+        "rank17": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 20000
+        },
+        "rank15": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100000
+        },
+        "rank16": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100000
+        },
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 400000000
+        },
+        "rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 125000000
+        },
+        "rank3": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 50000000
+        },
+        "rank8": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 1250000
+        },
+        "rank9": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 960000
+        },
+        "rank10": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100000
+        },
+        "rank4": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 20000000
+        },
+        "rank13": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100000
+        },
+        "rank5": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 6000000
+        },
+        "rank14": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100000
+        },
+        "rank6": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100000
+        },
+        "rank11": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100000
+        },
+        "rank7": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 2000000
+        },
+        "rank12": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100000
+        }
+      }
+    },
+    "next": {
+      "nr": 108,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Samstag, den 22.12.2018",
+        "day": 22,
+        "month": 12,
+        "year": 2018,
+        "hour": 10,
+        "minute": 0,
+        "dayOfWeek": "Samstag"
+      },
+      "closingDate": "22.12.2018, 09:00",
+      "lateClosingDate": "22.12.2018, 09:00",
+      "drawingDate": "22.12.2018, 10:00",
+      "jackpot": "2300",
+      "marketingJackpot": "2300",
+      "climbedSince": 5
+    }
+  },
+  "euroMillionsPlus": {
+    "last": {
+      "nr": 27,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Dienstag, den 26.06.2018",
+        "day": 26,
+        "month": 6,
+        "year": 2018,
+        "hour": 22,
+        "minute": 40,
+        "dayOfWeek": "Dienstag"
+      },
+      "closingDate": "26.06.2018, 22:25",
+      "lateClosingDate": "26.06.2018, 22:25",
+      "drawingDate": "26.06.2018, 22:40",
+      "numbers": [
+        1,
+        2,
+        12,
+        28,
+        50
+      ],
+      "stars": [
+        4,
+        5
+      ],
+      "jackpot": "24",
+      "marketingJackpot": "24",
+      "specialMarketingJackpot": "24",
+      "climbedSince": -1,
+      "Winners": 0,
+      "odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 2382986836,
+          "prize": 2382986836
+        },
+        "rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 25872429
+        },
+        "rank3": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 2723414
+        },
+        "rank8": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 1702
+        },
+        "rank9": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 1248
+        },
+        "rank10": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 1078
+        },
+        "rank4": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 272341
+        },
+        "rank13": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 397
+        },
+        "rank5": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 14184
+        },
+        "rank6": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 9078
+        },
+        "rank11": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 908
+        },
+        "rank7": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 5106
+        },
+        "rank12": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 738
+        }
+      }
+    },
+    "next": {
+      "nr": 28,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Freitag, den 29.06.2018",
+        "day": 29,
+        "month": 6,
+        "year": 2018,
+        "hour": 22,
+        "minute": 40,
+        "dayOfWeek": "Freitag"
+      },
+      "closingDate": "29.06.2018, 22:25",
+      "lateClosingDate": "29.06.2018, 22:25",
+      "drawingDate": "29.06.2018, 22:40",
+      "jackpot": "35",
+      "marketingJackpot": "35",
+      "specialMarketingJackpot": "35",
+      "climbedSince": -1
+    }
+  },
+  "polishLotto": {
+    "last": {
+      "nr": 6118,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Dienstag, den 26.06.2018",
+        "day": 26,
+        "month": 6,
+        "year": 2018,
+        "hour": 21,
+        "minute": 40,
+        "dayOfWeek": "Dienstag"
+      },
+      "closingDate": "26.06.2018, 20:40",
+      "lateClosingDate": "26.06.2018, 21:40",
+      "drawingDate": "26.06.2018, 21:40",
+      "numbers": [
+        15,
+        19,
+        22,
+        23,
+        25,
+        38
+      ],
+      "polishLottoPlus": {
+        "numbers": [
+          20,
+          24,
+          27,
+          28,
+          29,
+          48
+        ]
+      },
+      "jackpot": "1",
+      "marketingJackpot": "1",
+      "specialMarketingJackpot": "1",
+      "climbedSince": 1,
+      "Winners": 33842,
+      "odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 46066985
+        },
+        "rank2": {
+          "winners": 27,
+          "specialPrize": 0,
+          "prize": 148895
+        },
+        "rank3": {
+          "winners": 1780,
+          "specialPrize": 0,
+          "prize": 3602
+        },
+        "rank4": {
+          "winners": 32035,
+          "specialPrize": 0,
+          "prize": 553
+        }
+      },
+      "polishLottoPlusWinners": 20290,
+      "polishLottoPlusOdds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 1,
+          "specialPrize": 0,
+          "prize": 23033493
+        },
+        "rank2": {
+          "winners": 22,
+          "specialPrize": 0,
+          "prize": 80617
+        },
+        "rank3": {
+          "winners": 1009,
+          "specialPrize": 0,
+          "prize": 2303
+        },
+        "rank4": {
+          "winners": 19258,
+          "specialPrize": 0,
+          "prize": 230
+        }
+      }
+    },
+    "next": {
+      "nr": 6119,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Donnerstag, den 28.06.2018",
+        "day": 28,
+        "month": 6,
+        "year": 2018,
+        "hour": 21,
+        "minute": 40,
+        "dayOfWeek": "Donnerstag"
+      },
+      "closingDate": "28.06.2018, 20:40",
+      "lateClosingDate": "28.06.2018, 21:40",
+      "drawingDate": "28.06.2018, 21:40",
+      "jackpot": "1",
+      "marketingJackpot": "1",
+      "specialMarketingJackpot": "1",
+      "climbedSince": 2
+    }
+  },
+  "monWedOz": {
+    "last": {
+      "nr": 3777,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Mittwoch, den 27.06.2018",
+        "day": 27,
+        "month": 6,
+        "year": 2018,
+        "hour": 12,
+        "minute": 30,
+        "dayOfWeek": "Mittwoch"
+      },
+      "closingDate": "27.06.2018, 11:30",
+      "lateClosingDate": "27.06.2018, 12:15",
+      "drawingDate": "27.06.2018, 12:30",
+      "numbers": [
+        2,
+        5,
+        10,
+        22,
+        24,
+        28
+      ],
+      "supplementary": [
+        32,
+        42
+      ],
+      "jackpot": "1",
+      "marketingJackpot": "1",
+      "specialMarketingJackpot": "1",
+      "climbedSince": 1,
+      "Winners": 86450,
+      "odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 1,
+          "specialPrize": 0,
+          "prize": 63429037
+        },
+        "rank2": {
+          "winners": 16,
+          "specialPrize": 0,
+          "prize": 251705
+        },
+        "rank3": {
+          "winners": 363,
+          "specialPrize": 0,
+          "prize": 17170
+        },
+        "rank4": {
+          "winners": 14199,
+          "specialPrize": 0,
+          "prize": 1250
+        },
+        "rank5": {
+          "winners": 25158,
+          "specialPrize": 0,
+          "prize": 1002
+        },
+        "rank6": {
+          "winners": 46713,
+          "specialPrize": 0,
+          "prize": 913
+        }
+      }
+    },
+    "next": {
+      "nr": 3778,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Montag, den 02.07.2018",
+        "day": 2,
+        "month": 7,
+        "year": 2018,
+        "hour": 12,
+        "minute": 30,
+        "dayOfWeek": "Montag"
+      },
+      "closingDate": "02.07.2018, 11:30",
+      "lateClosingDate": "02.07.2018, 12:15",
+      "drawingDate": "02.07.2018, 12:30",
+      "jackpot": "1",
+      "marketingJackpot": "1",
+      "specialMarketingJackpot": "1",
+      "climbedSince": 1
+    }
+  },
+  "quina": {
+    "last": {
+      "nr": 4708,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Mittwoch, den 27.06.2018",
+        "day": 27,
+        "month": 6,
+        "year": 2018,
+        "hour": 1,
+        "minute": 0,
+        "dayOfWeek": "Mittwoch"
+      },
+      "closingDate": "27.06.2018, 00:00",
+      "lateClosingDate": "27.06.2018, 00:00",
+      "drawingDate": "27.06.2018, 01:00",
+      "numbers": [
+        18,
+        40,
+        41,
+        44,
+        77
+      ],
+      "jackpot": "0.25",
+      "marketingJackpot": "0.25",
+      "specialMarketingJackpot": "0.25",
+      "climbedSince": 2,
+      "Winners": 104473,
+      "odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank2": {
+          "winners": 79,
+          "specialPrize": 0,
+          "prize": 94768
+        },
+        "rank3": {
+          "winners": 4513,
+          "specialPrize": 0,
+          "prize": 2495
+        },
+        "rank4": {
+          "winners": 99881,
+          "specialPrize": 0,
+          "prize": 62
+        }
+      }
+    },
+    "next": {
+      "nr": 4709,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Donnerstag, den 28.06.2018",
+        "day": 28,
+        "month": 6,
+        "year": 2018,
+        "hour": 1,
+        "minute": 0,
+        "dayOfWeek": "Donnerstag"
+      },
+      "closingDate": "28.06.2018, 00:00",
+      "lateClosingDate": "28.06.2018, 00:00",
+      "drawingDate": "28.06.2018, 01:00",
+      "jackpot": "0.41",
+      "marketingJackpot": "0.41",
+      "specialMarketingJackpot": "0.41",
+      "climbedSince": 3
+    }
+  },
+  "sportka": {
+    "past": [
+      {
+        "nr": 2591,
+        "currency": "EUR",
+        "date": {
+          "full": "Die Lottozahlen vom Sonntag, den 24.06.2018",
+          "day": 24,
+          "month": 6,
+          "year": 2018,
+          "hour": 20,
+          "minute": 0,
+          "dayOfWeek": "Sonntag"
+        },
+        "closingDate": "24.06.2018, 19:00",
+        "lateClosingDate": "24.06.2018, 19:00",
+        "drawingDate": "24.06.2018, 20:00",
+        "numbers": [
+          7,
+          8,
+          18,
+          29,
+          40,
+          42
+        ],
+        "sportka2": {
+          "numbers": [
+            9,
+            22,
+            23,
+            32,
+            39,
+            40
+          ],
+          "additional": [
+            43
+          ]
+        },
+        "jackpot": "9.06",
+        "marketingJackpot": "9.06",
+        "specialMarketingJackpot": "9.06",
+        "climbedSince": -1,
+        "Winners": 53405,
+        "odds": {
+          "rank0": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 0
+          },
+          "rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 0
+          },
+          "rank2": {
+            "winners": 2,
+            "specialPrize": 0,
+            "prize": 33185575
+          },
+          "rank3": {
+            "winners": 1,
+            "specialPrize": 0,
+            "prize": 6218092
+          },
+          "rank4": {
+            "winners": 61,
+            "specialPrize": 0,
+            "prize": 77264
+          },
+          "rank5": {
+            "winners": 2902,
+            "specialPrize": 0,
+            "prize": 2163
+          },
+          "rank6": {
+            "winners": 50439,
+            "specialPrize": 0,
+            "prize": 415
+          }
+        },
+        "sportka2Winners": 52011,
+        "sportka2Odds": {
+          "rank0": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 0
+          },
+          "rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 0
+          },
+          "rank2": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 0
+          },
+          "rank3": {
+            "winners": 1,
+            "specialPrize": 0,
+            "prize": 9579536
+          },
+          "rank4": {
+            "winners": 54,
+            "specialPrize": 0,
+            "prize": 87279
+          },
+          "rank5": {
+            "winners": 2834,
+            "specialPrize": 0,
+            "prize": 2217
+          },
+          "rank6": {
+            "winners": 49122,
+            "specialPrize": 0,
+            "prize": 426
+          }
+        },
+        "sanceWinners": 28712,
+        "sanceOdds": {
+          "rank0": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 0
+          },
+          "rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 0
+          },
+          "rank2": {
+            "winners": 2,
+            "specialPrize": 0,
+            "prize": 387598
+          },
+          "rank3": {
+            "winners": 24,
+            "specialPrize": 0,
+            "prize": 38760
+          },
+          "rank4": {
+            "winners": 263,
+            "specialPrize": 0,
+            "prize": 3876
+          },
+          "rank5": {
+            "winners": 2559,
+            "specialPrize": 0,
+            "prize": 388
+          },
+          "rank6": {
+            "winners": 25864,
+            "specialPrize": 0,
+            "prize": 194
+          }
+        }
+      }
+    ],
+    "last": {
+      "nr": 2592,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Mittwoch, den 27.06.2018",
+        "day": 27,
+        "month": 6,
+        "year": 2018,
+        "hour": 20,
+        "minute": 0,
+        "dayOfWeek": "Mittwoch"
+      },
+      "closingDate": "27.06.2018, 19:00",
+      "lateClosingDate": "27.06.2018, 19:00",
+      "drawingDate": "27.06.2018, 20:00",
+      "jackpot": "8.73",
+      "marketingJackpot": "8.73",
+      "specialMarketingJackpot": "8.73",
+      "climbedSince": -1
+    },
+    "next": {
+      "nr": 2593,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Sonntag, den 01.07.2018",
+        "day": 1,
+        "month": 7,
+        "year": 2018,
+        "hour": 20,
+        "minute": 0,
+        "dayOfWeek": "Sonntag"
+      },
+      "closingDate": "01.07.2018, 19:00",
+      "lateClosingDate": "01.07.2018, 20:00",
+      "drawingDate": "01.07.2018, 20:00",
+      "jackpot": "8.73",
+      "marketingJackpot": "8.73",
+      "specialMarketingJackpot": "8.73",
+      "climbedSince": -1
+    }
+  },
+  "superEnalotto": {
+    "last": {
+      "nr": 2478,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Dienstag, den 26.06.2018",
+        "day": 26,
+        "month": 6,
+        "year": 2018,
+        "hour": 20,
+        "minute": 0,
+        "dayOfWeek": "Dienstag"
+      },
+      "closingDate": "26.06.2018, 19:00",
+      "lateClosingDate": "26.06.2018, 19:00",
+      "drawingDate": "26.06.2018, 20:00",
+      "numbers": [
+        2,
+        6,
+        37,
+        39,
+        51,
+        86
+      ],
+      "jolly": [
+        7
+      ],
+      "jackpot": "6.6",
+      "marketingJackpot": "6.6",
+      "specialMarketingJackpot": "6.6",
+      "climbedSince": 1,
+      "Winners": 321235,
+      "odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank3": {
+          "winners": 2,
+          "specialPrize": 0,
+          "prize": 7811874
+        },
+        "rank4": {
+          "winners": 439,
+          "specialPrize": 0,
+          "prize": 50280
+        },
+        "rank5": {
+          "winners": 18048,
+          "specialPrize": 0,
+          "prize": 2995
+        },
+        "rank6": {
+          "winners": 302746,
+          "specialPrize": 0,
+          "prize": 500
+        }
+      }
+    },
+    "next": {
+      "nr": 2479,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Donnerstag, den 28.06.2018",
+        "day": 28,
+        "month": 6,
+        "year": 2018,
+        "hour": 20,
+        "minute": 0,
+        "dayOfWeek": "Donnerstag"
+      },
+      "closingDate": "28.06.2018, 19:00",
+      "lateClosingDate": "28.06.2018, 19:00",
+      "drawingDate": "28.06.2018, 20:00",
+      "jackpot": "7.3",
+      "marketingJackpot": "7.3",
+      "specialMarketingJackpot": "7.3",
+      "climbedSince": 2
+    }
+  },
+  "fridayLotto": {
+    "last": {
+      "nr": 61,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Freitag, den 22.06.2018",
+        "day": 22,
+        "month": 6,
+        "year": 2018,
+        "hour": 13,
+        "minute": 0,
+        "dayOfWeek": "Freitag"
+      },
+      "closingDate": "22.06.2018, 12:45",
+      "lateClosingDate": "22.06.2018, 12:45",
+      "drawingDate": "22.06.2018, 13:00",
+      "numbers": [
+        11657841
+      ],
+      "jackpot": "41",
+      "marketingJackpot": "41",
+      "specialMarketingJackpot": "41",
+      "climbedSince": -1,
+      "Winners": 0,
+      "odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 4100000000
+        },
+        "rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100000000
+        },
+        "rank3": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 10000000
+        },
+        "rank8": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100
+        },
+        "rank4": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 1000000
+        },
+        "rank5": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100000
+        },
+        "rank6": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 10000
+        },
+        "rank7": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 1000
+        }
+      }
+    },
+    "next": {
+      "nr": 62,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Freitag, den 29.06.2018",
+        "day": 29,
+        "month": 6,
+        "year": 2018,
+        "hour": 13,
+        "minute": 0,
+        "dayOfWeek": "Freitag"
+      },
+      "closingDate": "29.06.2018, 12:45",
+      "lateClosingDate": "29.06.2018, 12:45",
+      "drawingDate": "29.06.2018, 13:00",
+      "jackpot": "50",
+      "marketingJackpot": "50",
+      "specialMarketingJackpot": "50",
+      "climbedSince": -1
+    }
+  },
+  "polishKeno": {
+    "past": [
+      {
+        "nr": 724347,
+        "currency": "EUR",
+        "date": {
+          "full": "Die Lottozahlen vom Mittwoch, den 27.06.2018",
+          "day": 27,
+          "month": 6,
+          "year": 2018,
+          "hour": 18,
+          "minute": 58,
+          "dayOfWeek": "Mittwoch"
+        },
+        "closingDate": "27.06.2018, 18:57",
+        "lateClosingDate": "27.06.2018, 18:58",
+        "drawingDate": "27.06.2018, 18:58",
+        "numbers": [
+          2,
+          17,
+          21,
+          22,
+          24,
+          27,
+          28,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          43,
+          44,
+          46,
+          50,
+          54,
+          56,
+          62
+        ],
+        "jackpot": "1",
+        "marketingJackpot": "1.5",
+        "specialMarketingJackpot": "1.5",
+        "climbedSince": 1,
+        "Winners": 0,
+        "odds": {
+          "KENOW8_rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 1000000
+          },
+          "KENOW8_rank2": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 10000
+          },
+          "KENOW8_rank5": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 100
+          },
+          "KENOW8_rank6": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 100
+          },
+          "KENOW8_rank3": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 1000
+          },
+          "KENOW8_rank4": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 200
+          },
+          "KENOW1_rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 150
+          },
+          "KENOW5_rank3": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 200
+          },
+          "KENOW5_rank2": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 500
+          },
+          "KENOW4_rank2": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 200
+          },
+          "KENOW4_rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 2000
+          },
+          "KENOW7_rank3": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 1000
+          },
+          "KENOW7_rank2": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 10000
+          },
+          "KENOW7_rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 100000
+          },
+          "KENOW7_rank4": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 100
+          },
+          "KENOW2_rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 500
+          },
+          "KENOW9_rank6": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 200
+          },
+          "KENOW4_rank3": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 100
+          },
+          "KENOW9_rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 5000000
+          },
+          "KENOW9_rank2": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 100000
+          },
+          "KENOW9_rank3": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 1000
+          },
+          "KENOW9_rank4": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 500
+          },
+          "KENOW9_rank5": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 200
+          },
+          "KENOW5_rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 10000
+          },
+          "KENOW10_rank3": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 10000
+          },
+          "rank0": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 0
+          },
+          "KENOW10_rank2": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 100000
+          },
+          "KENOW10_rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 10000000
+          },
+          "KENOW6_rank2": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 1000
+          },
+          "KENOW10_rank7": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 200
+          },
+          "KENOW6_rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 50000
+          },
+          "KENOW10_rank6": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 200
+          },
+          "KENOW6_rank4": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 100
+          },
+          "KENOW10_rank5": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 500
+          },
+          "KENOW6_rank3": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 200
+          },
+          "KENOW10_rank4": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 1000
+          },
+          "KENOW3_rank2": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 100
+          },
+          "KENOW3_rank1": {
+            "winners": 0,
+            "specialPrize": 0,
+            "prize": 1500
+          }
+        }
+      }
+    ],
+    "last": {
+      "nr": 724348,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Mittwoch, den 27.06.2018",
+        "day": 27,
+        "month": 6,
+        "year": 2018,
+        "hour": 19,
+        "minute": 2,
+        "dayOfWeek": "Mittwoch"
+      },
+      "closingDate": "27.06.2018, 19:01",
+      "lateClosingDate": "27.06.2018, 19:02",
+      "drawingDate": "27.06.2018, 19:02",
+      "jackpot": "1",
+      "marketingJackpot": "1.5",
+      "specialMarketingJackpot": "1.5",
+      "climbedSince": 1
+    },
+    "next": {
+      "nr": 724349,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Mittwoch, den 27.06.2018",
+        "day": 27,
+        "month": 6,
+        "year": 2018,
+        "hour": 19,
+        "minute": 6,
+        "dayOfWeek": "Mittwoch"
+      },
+      "closingDate": "27.06.2018, 19:05",
+      "lateClosingDate": "27.06.2018, 19:06",
+      "drawingDate": "27.06.2018, 19:06",
+      "jackpot": "1",
+      "marketingJackpot": "1.5",
+      "specialMarketingJackpot": "1.5",
+      "climbedSince": 1
+    }
+  },
+  "elGordoPrimitiva": {
+    "last": {
+      "nr": 477,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Sonntag, den 24.06.2018",
+        "day": 24,
+        "month": 6,
+        "year": 2018,
+        "hour": 21,
+        "minute": 30,
+        "dayOfWeek": "Sonntag"
+      },
+      "closingDate": "24.06.2018, 20:30",
+      "lateClosingDate": "24.06.2018, 20:30",
+      "drawingDate": "24.06.2018, 21:30",
+      "numbers": [
+        7,
+        8,
+        17,
+        24,
+        49
+      ],
+      "keyNumber": [
+        7
+      ],
+      "jackpot": "8.1",
+      "marketingJackpot": "8.1",
+      "specialMarketingJackpot": "8.1",
+      "climbedSince": 6,
+      "Winners": 542355,
+      "odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank3": {
+          "winners": 35,
+          "specialPrize": 0,
+          "prize": 487429
+        },
+        "rank8": {
+          "winners": 154457,
+          "specialPrize": 0,
+          "prize": 300
+        },
+        "rank9": {
+          "winners": 347535,
+          "specialPrize": 0,
+          "prize": 150
+        },
+        "rank4": {
+          "winners": 190,
+          "specialPrize": 0,
+          "prize": 16116
+        },
+        "rank5": {
+          "winners": 1956,
+          "specialPrize": 0,
+          "prize": 1789
+        },
+        "rank6": {
+          "winners": 10664,
+          "specialPrize": 0,
+          "prize": 1067
+        },
+        "rank7": {
+          "winners": 27518,
+          "specialPrize": 0,
+          "prize": 318
+        }
+      }
+    },
+    "next": {
+      "nr": 478,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Sonntag, den 01.07.2018",
+        "day": 1,
+        "month": 7,
+        "year": 2018,
+        "hour": 21,
+        "minute": 30,
+        "dayOfWeek": "Sonntag"
+      },
+      "closingDate": "01.07.2018, 20:30",
+      "lateClosingDate": "01.07.2018, 20:30",
+      "drawingDate": "01.07.2018, 21:30",
+      "jackpot": "8.8",
+      "marketingJackpot": "8.8",
+      "specialMarketingJackpot": "8.8",
+      "climbedSince": 7
+    }
+  },
+  "saturdayOz": {
+    "last": {
+      "nr": 3853,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Samstag, den 23.06.2018",
+        "day": 23,
+        "month": 6,
+        "year": 2018,
+        "hour": 12,
+        "minute": 30,
+        "dayOfWeek": "Samstag"
+      },
+      "closingDate": "23.06.2018, 11:30",
+      "lateClosingDate": "23.06.2018, 12:15",
+      "drawingDate": "23.06.2018, 12:30",
+      "numbers": [
+        9,
+        10,
+        18,
+        31,
+        35,
+        41
+      ],
+      "supplementary": [
+        16,
+        26
+      ],
+      "jackpot": "13",
+      "marketingJackpot": "13",
+      "specialMarketingJackpot": "13",
+      "climbedSince": 1,
+      "Winners": 1122781,
+      "odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 10,
+          "specialPrize": 0,
+          "prize": 127490771
+        },
+        "rank2": {
+          "winners": 146,
+          "specialPrize": 0,
+          "prize": 589240
+        },
+        "rank3": {
+          "winners": 2413,
+          "specialPrize": 0,
+          "prize": 76934
+        },
+        "rank4": {
+          "winners": 123255,
+          "specialPrize": 0,
+          "prize": 2279
+        },
+        "rank5": {
+          "winners": 315203,
+          "specialPrize": 0,
+          "prize": 1495
+        },
+        "rank6": {
+          "winners": 681754,
+          "specialPrize": 0,
+          "prize": 889
+        }
+      }
+    },
+    "next": {
+      "nr": 3855,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Samstag, den 30.06.2018",
+        "day": 30,
+        "month": 6,
+        "year": 2018,
+        "hour": 12,
+        "minute": 30,
+        "dayOfWeek": "Samstag"
+      },
+      "closingDate": "30.06.2018, 11:30",
+      "lateClosingDate": "30.06.2018, 12:15",
+      "drawingDate": "30.06.2018, 12:30",
+      "jackpot": "3",
+      "marketingJackpot": "3",
+      "specialMarketingJackpot": "3",
+      "climbedSince": 1
+    }
+  },
+  "glucksSpirale": {
+    "last": {
+      "nr": 1677,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Samstag, den 23.06.2018",
+        "day": 23,
+        "month": 6,
+        "year": 2018,
+        "hour": 19,
+        "minute": 30,
+        "dayOfWeek": "Samstag"
+      },
+      "closingDate": "23.06.2018, 19:00",
+      "lateClosingDate": "23.06.2018, 19:00",
+      "drawingDate": "23.06.2018, 19:30",
+      "rank1": [
+        "7"
+      ],
+      "rank2": [
+        "20"
+      ],
+      "rank3": [
+        "231"
+      ],
+      "rank4": [
+        "8104"
+      ],
+      "rank5": [
+        "10513"
+      ],
+      "rank6": [
+        "698668",
+        "512859"
+      ],
+      "rank7": [
+        "3101841"
+      ],
+      "Winners": 0,
+      "odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 1000
+        },
+        "rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 2500
+        },
+        "rank3": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 10000
+        },
+        "rank4": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100000
+        },
+        "rank5": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 1000000
+        },
+        "rank6": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 10000000
+        },
+        "rank7": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 210000000
+        }
+      }
+    },
+    "next": {
+      "nr": 1678,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Samstag, den 30.06.2018",
+        "day": 30,
+        "month": 6,
+        "year": 2018,
+        "hour": 19,
+        "minute": 30,
+        "dayOfWeek": "Samstag"
+      },
+      "closingDate": "30.06.2018, 19:00",
+      "lateClosingDate": "30.06.2018, 19:00",
+      "drawingDate": "30.06.2018, 19:30",
+      "rank1": [
+        "0"
+      ],
+      "rank2": [
+        "00"
+      ],
+      "rank3": [
+        "000"
+      ],
+      "rank4": [
+        "0000"
+      ],
+      "rank5": [
+        "00000"
+      ],
+      "rank6": [
+        "000000",
+        "000000"
+      ],
+      "rank7": [
+        "0000000"
+      ]
+    }
+  },
+  "megaSena": {
+    "last": {
+      "nr": 2052,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Sonntag, den 24.06.2018",
+        "day": 24,
+        "month": 6,
+        "year": 2018,
+        "hour": 1,
+        "minute": 0,
+        "dayOfWeek": "Sonntag"
+      },
+      "closingDate": "24.06.2018, 00:00",
+      "lateClosingDate": "24.06.2018, 00:00",
+      "drawingDate": "24.06.2018, 01:00",
+      "numbers": [
+        50,
+        51,
+        56,
+        57,
+        58,
+        59
+      ],
+      "jackpot": "8.6",
+      "marketingJackpot": "8.6",
+      "specialMarketingJackpot": "8.6",
+      "climbedSince": 7,
+      "Winners": 4972,
+      "odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 4,
+          "specialPrize": 0,
+          "prize": 217963358
+        },
+        "rank2": {
+          "winners": 152,
+          "specialPrize": 0,
+          "prize": 386899
+        },
+        "rank3": {
+          "winners": 4816,
+          "specialPrize": 0,
+          "prize": 17444
+        }
+      },
+      "accummulatedFinal5": 895852972,
+      "accumulatedMegaDaVirada": 3397219567,
+      "location": "CAMPINA GRANDE, PB"
+    },
+    "next": {
+      "nr": 2053,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Donnerstag, den 28.06.2018",
+        "day": 28,
+        "month": 6,
+        "year": 2018,
+        "hour": 1,
+        "minute": 0,
+        "dayOfWeek": "Donnerstag"
+      },
+      "closingDate": "28.06.2018, 00:00",
+      "lateClosingDate": "28.06.2018, 00:00",
+      "drawingDate": "28.06.2018, 01:00",
+      "jackpot": "0.6",
+      "marketingJackpot": "0.6",
+      "specialMarketingJackpot": "0.6",
+      "climbedSince": 1,
+      "accummulatedFinal5": 0,
+      "accumulatedMegaDaVirada": 0
+    }
+  },
+  "uKLotto": {
+    "last": {
+      "nr": 2348,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Samstag, den 23.06.2018",
+        "day": 23,
+        "month": 6,
+        "year": 2018,
+        "hour": 22,
+        "minute": 40,
+        "dayOfWeek": "Samstag"
+      },
+      "closingDate": "23.06.2018, 22:25",
+      "lateClosingDate": "23.06.2018, 22:25",
+      "drawingDate": "23.06.2018, 22:40",
+      "numbers": [
+        9,
+        22,
+        44,
+        49,
+        50,
+        55
+      ],
+      "bonus": [
+        5
+      ],
+      "jackpot": "19.6",
+      "marketingJackpot": "19.6",
+      "specialMarketingJackpot": "25.3",
+      "climbedSince": 33,
+      "Winners": 0,
+      "odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 2531922756
+        },
+        "rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 5702529
+        },
+        "rank3": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 171076
+        },
+        "rank4": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 17108
+        },
+        "rank5": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 2851
+        },
+        "rank6": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 228
+        }
+      }
+    },
+    "next": {
+      "nr": 2349,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Mittwoch, den 27.06.2018",
+        "day": 27,
+        "month": 6,
+        "year": 2018,
+        "hour": 22,
+        "minute": 40,
+        "dayOfWeek": "Mittwoch"
+      },
+      "closingDate": "27.06.2018, 22:25",
+      "lateClosingDate": "27.06.2018, 22:25",
+      "drawingDate": "27.06.2018, 22:40",
+      "jackpot": "2",
+      "marketingJackpot": "2",
+      "specialMarketingJackpot": "7.7",
+      "climbedSince": 34
+    }
+  },
+  "german6aus49Go": {
+    "last": {
+      "nr": 3704,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Mittwoch, den 27.06.2018",
+        "day": 27,
+        "month": 6,
+        "year": 2018,
+        "hour": 19,
+        "minute": 0,
+        "dayOfWeek": "Mittwoch"
+      },
+      "closingDate": "27.06.2018, 18:55",
+      "lateClosingDate": "27.06.2018, 19:00",
+      "drawingDate": "27.06.2018, 19:00",
+      "numbers": [
+        3,
+        12,
+        13,
+        22,
+        25,
+        34
+      ],
+      "spiel77Go": {
+        "numbers": [
+          1014900
+        ]
+      },
+      "super6Go": {
+        "numbers": [
+          203143
+        ]
+      },
+      "jackpot": "5",
+      "marketingJackpot": "5",
+      "specialMarketingJackpot": "5",
+      "climbedSince": -1,
+      "Winners": 0,
+      "odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 500000000,
+          "prize": 500000000
+        },
+        "rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 10000000
+        },
+        "rank3": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 1000000
+        },
+        "rank8": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 500
+        },
+        "rank9": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 200
+        },
+        "rank10": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100
+        },
+        "rank4": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100000
+        },
+        "rank5": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 10000
+        },
+        "rank6": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 4000
+        },
+        "rank7": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 1000
+        }
+      },
+      "spiel77GoWinners": 0,
+      "spiel77GoOdds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 17777700
+        },
+        "rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 7777700
+        },
+        "rank3": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 777700
+        },
+        "rank4": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 77700
+        },
+        "rank5": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 7700
+        },
+        "rank6": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 1700
+        },
+        "rank7": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 500
+        }
+      },
+      "super6GoWinners": 0,
+      "super6GoOdds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 10000000
+        },
+        "rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 666600
+        },
+        "rank3": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 66600
+        },
+        "rank4": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 6600
+        },
+        "rank5": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 600
+        },
+        "rank6": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 250
+        }
+      }
+    },
+    "next": {
+      "nr": 3705,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Mittwoch, den 27.06.2018",
+        "day": 27,
+        "month": 6,
+        "year": 2018,
+        "hour": 20,
+        "minute": 0,
+        "dayOfWeek": "Mittwoch"
+      },
+      "closingDate": "27.06.2018, 19:55",
+      "lateClosingDate": "27.06.2018, 20:00",
+      "drawingDate": "27.06.2018, 20:00",
+      "jackpot": "5",
+      "marketingJackpot": "5",
+      "specialMarketingJackpot": "5",
+      "climbedSince": -1
+    }
+  },
+  "megaMillions": {
+    "last": {
+      "nr": 2202,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Mittwoch, den 27.06.2018",
+        "day": 27,
+        "month": 6,
+        "year": 2018,
+        "hour": 5,
+        "minute": 0,
+        "dayOfWeek": "Mittwoch"
+      },
+      "closingDate": "27.06.2018, 04:00",
+      "lateClosingDate": "27.06.2018, 04:00",
+      "drawingDate": "27.06.2018, 05:00",
+      "numbers": [
+        17,
+        25,
+        29,
+        39,
+        60
+      ],
+      "megaballs": [
+        19
+      ],
+      "jackpot": "182",
+      "marketingJackpot": "182",
+      "specialMarketingJackpot": "182",
+      "climbedSince": 15,
+      "Winners": 603458,
+      "odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 18181506321
+        },
+        "rank2": {
+          "winners": 2,
+          "specialPrize": 0,
+          "prize": 85761822
+        },
+        "rank3": {
+          "winners": 18,
+          "specialPrize": 0,
+          "prize": 857618
+        },
+        "rank8": {
+          "winners": 162460,
+          "specialPrize": 0,
+          "prize": 343
+        },
+        "rank9": {
+          "winners": 392180,
+          "specialPrize": 0,
+          "prize": 172
+        },
+        "rank4": {
+          "winners": 368,
+          "specialPrize": 0,
+          "prize": 42881
+        },
+        "rank5": {
+          "winners": 983,
+          "specialPrize": 0,
+          "prize": 17152
+        },
+        "rank6": {
+          "winners": 26514,
+          "specialPrize": 0,
+          "prize": 858
+        },
+        "rank7": {
+          "winners": 20933,
+          "specialPrize": 0,
+          "prize": 858
+        }
+      },
+      "megaplier": 2
+    },
+    "next": {
+      "nr": 2203,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Samstag, den 30.06.2018",
+        "day": 30,
+        "month": 6,
+        "year": 2018,
+        "hour": 5,
+        "minute": 0,
+        "dayOfWeek": "Samstag"
+      },
+      "closingDate": "30.06.2018, 04:00",
+      "lateClosingDate": "30.06.2018, 05:00",
+      "drawingDate": "30.06.2018, 05:00",
+      "jackpot": "199",
+      "marketingJackpot": "199",
+      "specialMarketingJackpot": "199",
+      "climbedSince": 16
+    }
+  },
+  "polishMiniLotto": {
+    "last": {
+      "nr": 3159,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Dienstag, den 26.06.2018",
+        "day": 26,
+        "month": 6,
+        "year": 2018,
+        "hour": 21,
+        "minute": 40,
+        "dayOfWeek": "Dienstag"
+      },
+      "closingDate": "26.06.2018, 20:40",
+      "lateClosingDate": "26.06.2018, 21:40",
+      "drawingDate": "26.06.2018, 21:40",
+      "numbers": [
+        9,
+        17,
+        19,
+        35,
+        39
+      ],
+      "jackpot": "0.07",
+      "marketingJackpot": "0.07",
+      "specialMarketingJackpot": "0.07",
+      "climbedSince": 1,
+      "Winners": 8243,
+      "odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 2,
+          "specialPrize": 0,
+          "prize": 2864844
+        },
+        "rank2": {
+          "winners": 235,
+          "specialPrize": 0,
+          "prize": 9755
+        },
+        "rank3": {
+          "winners": 8006,
+          "specialPrize": 0,
+          "prize": 431
+        }
+      }
+    },
+    "next": {
+      "nr": 3160,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Mittwoch, den 27.06.2018",
+        "day": 27,
+        "month": 6,
+        "year": 2018,
+        "hour": 21,
+        "minute": 40,
+        "dayOfWeek": "Mittwoch"
+      },
+      "closingDate": "27.06.2018, 20:40",
+      "lateClosingDate": "27.06.2018, 21:40",
+      "drawingDate": "27.06.2018, 21:40",
+      "jackpot": "0.07",
+      "marketingJackpot": "0.07",
+      "specialMarketingJackpot": "0.07",
+      "climbedSince": 1
+    }
+  },
+  "frenchLotto": {
+    "last": {
+      "nr": 671,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Montag, den 25.06.2018",
+        "day": 25,
+        "month": 6,
+        "year": 2018,
+        "hour": 20,
+        "minute": 30,
+        "dayOfWeek": "Montag"
+      },
+      "closingDate": "25.06.2018, 19:30",
+      "lateClosingDate": "25.06.2018, 19:30",
+      "drawingDate": "25.06.2018, 20:30",
+      "numbers": [
+        9,
+        13,
+        14,
+        21,
+        32
+      ],
+      "chance": [
+        5
+      ],
+      "jackpot": "4",
+      "marketingJackpot": "4",
+      "specialMarketingJackpot": "4",
+      "climbedSince": 3,
+      "Winners": 556005,
+      "odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 2,
+          "specialPrize": 0,
+          "prize": 200000000
+        },
+        "rank2": {
+          "winners": 4,
+          "specialPrize": 0,
+          "prize": 10000000
+        },
+        "rank3": {
+          "winners": 45,
+          "specialPrize": 0,
+          "prize": 100000
+        },
+        "rank8": {
+          "winners": 201699,
+          "specialPrize": 0,
+          "prize": 500
+        },
+        "rank9": {
+          "winners": 309799,
+          "specialPrize": 0,
+          "prize": 220
+        },
+        "rank4": {
+          "winners": 331,
+          "specialPrize": 0,
+          "prize": 50000
+        },
+        "rank5": {
+          "winners": 2012,
+          "specialPrize": 0,
+          "prize": 5000
+        },
+        "rank6": {
+          "winners": 14765,
+          "specialPrize": 0,
+          "prize": 2000
+        },
+        "rank7": {
+          "winners": 27348,
+          "specialPrize": 0,
+          "prize": 1000
+        }
+      }
+    },
+    "next": {
+      "nr": 672,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Mittwoch, den 27.06.2018",
+        "day": 27,
+        "month": 6,
+        "year": 2018,
+        "hour": 20,
+        "minute": 30,
+        "dayOfWeek": "Mittwoch"
+      },
+      "closingDate": "27.06.2018, 19:30",
+      "lateClosingDate": "27.06.2018, 19:30",
+      "drawingDate": "27.06.2018, 20:30",
+      "jackpot": "2",
+      "marketingJackpot": "2",
+      "specialMarketingJackpot": "2",
+      "climbedSince": 1
+    }
+  },
+  "german6aus49": {
+    "last": {
+      "nr": 4190,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Mittwoch, den 27.06.2018",
+        "day": 27,
+        "month": 6,
+        "year": 2018,
+        "hour": 18,
+        "minute": 30,
+        "dayOfWeek": "Mittwoch"
+      },
+      "closingDate": "27.06.2018, 18:00",
+      "lateClosingDate": "27.06.2018, 18:25",
+      "drawingDate": "27.06.2018, 18:30",
+      "numbers": [
+        13,
+        17,
+        35,
+        37,
+        45,
+        46
+      ],
+      "zusatzzahl": 0,
+      "superzahl": 3,
+      "super6": "784654",
+      "spiel77": "3015750",
+      "jackpot": "5",
+      "marketingJackpot": "5",
+      "specialMarketingJackpot": "5",
+      "climbedSince": 3,
+      "spiel77jackpot": "0"
+    },
+    "next": {
+      "nr": 4191,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Samstag, den 30.06.2018",
+        "day": 30,
+        "month": 6,
+        "year": 2018,
+        "hour": 19,
+        "minute": 30,
+        "dayOfWeek": "Samstag"
+      },
+      "closingDate": "30.06.2018, 19:00",
+      "lateClosingDate": "30.06.2018, 19:00",
+      "drawingDate": "30.06.2018, 19:30",
+      "jackpot": "5",
+      "marketingJackpot": "5",
+      "specialMarketingJackpot": "5",
+      "climbedSince": 4,
+      "spiel77jackpot": "0"
+    }
+  },
+  "irishLotto": {
+    "last": {
+      "nr": 1623,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Samstag, den 23.06.2018",
+        "day": 23,
+        "month": 6,
+        "year": 2018,
+        "hour": 21,
+        "minute": 0,
+        "dayOfWeek": "Samstag"
+      },
+      "closingDate": "23.06.2018, 20:45",
+      "lateClosingDate": "23.06.2018, 20:45",
+      "drawingDate": "23.06.2018, 21:00",
+      "numbers": [
+        4,
+        6,
+        12,
+        20,
+        40,
+        43
+      ],
+      "bonus": [
+        21
+      ],
+      "lottoPlus1": {
+        "numbers": [
+          10,
+          22,
+          23,
+          34,
+          46,
+          47
+        ],
+        "additional": [
+          21
+        ]
+      },
+      "lottoPlus2": {
+        "numbers": [
+          2,
+          4,
+          12,
+          15,
+          32,
+          37
+        ],
+        "additional": [
+          43
+        ]
+      },
+      "jackpot": "2",
+      "marketingJackpot": "2",
+      "specialMarketingJackpot": "2",
+      "climbedSince": 2,
+      "Winners": 37033,
+      "odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 250368700
+        },
+        "rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 5859600
+        },
+        "rank3": {
+          "winners": 21,
+          "specialPrize": 0,
+          "prize": 167300
+        },
+        "rank8": {
+          "winners": 15012,
+          "specialPrize": 0,
+          "prize": 300
+        },
+        "rank4": {
+          "winners": 48,
+          "specialPrize": 0,
+          "prize": 18400
+        },
+        "rank5": {
+          "winners": 1040,
+          "specialPrize": 0,
+          "prize": 5500
+        },
+        "rank6": {
+          "winners": 1535,
+          "specialPrize": 0,
+          "prize": 2500
+        },
+        "rank7": {
+          "winners": 19377,
+          "specialPrize": 0,
+          "prize": 900
+        }
+      },
+      "lottoPlus1Winners": 17477,
+      "lottoPlus1Odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 50000000
+        },
+        "rank2": {
+          "winners": 3,
+          "specialPrize": 0,
+          "prize": 500000
+        },
+        "rank3": {
+          "winners": 24,
+          "specialPrize": 0,
+          "prize": 50000
+        },
+        "rank4": {
+          "winners": 47,
+          "specialPrize": 0,
+          "prize": 5000
+        },
+        "rank5": {
+          "winners": 891,
+          "specialPrize": 0,
+          "prize": 2000
+        },
+        "rank6": {
+          "winners": 1145,
+          "specialPrize": 0,
+          "prize": 1000
+        },
+        "rank7": {
+          "winners": 15367,
+          "specialPrize": 0,
+          "prize": 300
+        }
+      },
+      "lottoPlus2Winners": 2272,
+      "lottoPlus2Odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 25000000
+        },
+        "rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 250000
+        },
+        "rank3": {
+          "winners": 16,
+          "specialPrize": 0,
+          "prize": 25000
+        },
+        "rank4": {
+          "winners": 34,
+          "specialPrize": 0,
+          "prize": 2500
+        },
+        "rank5": {
+          "winners": 1066,
+          "specialPrize": 0,
+          "prize": 1000
+        },
+        "rank6": {
+          "winners": 1156,
+          "specialPrize": 0,
+          "prize": 500
+        }
+      }
+    },
+    "next": {
+      "nr": 1624,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Mittwoch, den 27.06.2018",
+        "day": 27,
+        "month": 6,
+        "year": 2018,
+        "hour": 21,
+        "minute": 0,
+        "dayOfWeek": "Mittwoch"
+      },
+      "closingDate": "27.06.2018, 20:45",
+      "lateClosingDate": "27.06.2018, 20:45",
+      "drawingDate": "27.06.2018, 21:00",
+      "jackpot": "3",
+      "marketingJackpot": "3",
+      "specialMarketingJackpot": "3",
+      "climbedSince": 3
+    }
+  },
+  "summerGordo": {
+    "last": {
+      "nr": 107,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Samstag, den 01.07.2017",
+        "day": 1,
+        "month": 7,
+        "year": 2017,
+        "hour": 13,
+        "minute": 0,
+        "dayOfWeek": "Samstag"
+      },
+      "closingDate": "01.07.2017, 12:30",
+      "lateClosingDate": "01.07.2017, 12:30",
+      "drawingDate": "01.07.2017, 13:00",
+      "numbers": {
+        
+      },
+      "jackpot": "120",
+      "marketingJackpot": "120",
+      "climbedSince": -1,
+      "Winners": 0,
+      "odds": {
+        "rank15": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 20000
+        },
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 200000000
+        },
+        "rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 60000000
+        },
+        "rank3": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 20000000
+        },
+        "rank8": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100000
+        },
+        "rank9": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100000
+        },
+        "rank10": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 50000
+        },
+        "rank4": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 800000
+        },
+        "rank13": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 40000
+        },
+        "rank5": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 430000
+        },
+        "rank14": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 20000
+        },
+        "rank6": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100000
+        },
+        "rank11": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 50000
+        },
+        "rank7": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100000
+        },
+        "rank12": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 40000
+        }
+      }
+    },
+    "next": {
+      "nr": 108,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Samstag, den 07.07.2018",
+        "day": 7,
+        "month": 7,
+        "year": 2018,
+        "hour": 13,
+        "minute": 0,
+        "dayOfWeek": "Samstag"
+      },
+      "closingDate": "07.07.2018, 12:00",
+      "lateClosingDate": "07.07.2018, 13:00",
+      "drawingDate": "07.07.2018, 13:00",
+      "jackpot": "120",
+      "marketingJackpot": "120",
+      "climbedSince": -1
+    }
+  },
+  "newYearsLottery": {
+    "last": {
+      "nr": 20,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Sonntag, den 31.12.2017",
+        "day": 31,
+        "month": 12,
+        "year": 2017,
+        "hour": 23,
+        "minute": 0,
+        "dayOfWeek": "Sonntag"
+      },
+      "closingDate": "31.12.2017, 22:00",
+      "lateClosingDate": "31.12.2017, 22:00",
+      "drawingDate": "31.12.2017, 23:00",
+      "numbers": [
+        3,
+        6,
+        10,
+        17,
+        34,
+        37
+      ],
+      "jackpot": "70.55235438",
+      "marketingJackpot": "100",
+      "specialMarketingJackpot": "100",
+      "climbedSince": 1,
+      "Winners": 178307,
+      "odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 17,
+          "specialPrize": 0,
+          "prize": 454616166
+        },
+        "rank2": {
+          "winners": 4862,
+          "specialPrize": 0,
+          "prize": 266210
+        },
+        "rank3": {
+          "winners": 173428,
+          "specialPrize": 0,
+          "prize": 10661
+        }
+      }
+    },
+    "next": {
+      "nr": 21,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Montag, den 31.12.2018",
+        "day": 31,
+        "month": 12,
+        "year": 2018,
+        "hour": 23,
+        "minute": 0,
+        "dayOfWeek": "Montag"
+      },
+      "closingDate": "31.12.2018, 22:00",
+      "lateClosingDate": "31.12.2018, 22:00",
+      "drawingDate": "31.12.2018, 23:00",
+      "jackpot": "100",
+      "marketingJackpot": "100",
+      "specialMarketingJackpot": "100",
+      "climbedSince": 1
+    }
+  },
+  "worldMillions": {
+    "last": {
+      "nr": 146,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Sonntag, den 24.06.2018",
+        "day": 24,
+        "month": 6,
+        "year": 2018,
+        "hour": 19,
+        "minute": 0,
+        "dayOfWeek": "Sonntag"
+      },
+      "closingDate": "24.06.2018, 18:00",
+      "lateClosingDate": "24.06.2018, 18:00",
+      "drawingDate": "24.06.2018, 19:00",
+      "numbers": [
+        52867670
+      ],
+      "jackpot": "100",
+      "marketingJackpot": "100",
+      "specialMarketingJackpot": "100",
+      "climbedSince": -1,
+      "Winners": 0,
+      "odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 10000000000
+        },
+        "rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100000000
+        },
+        "rank3": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 10000000
+        },
+        "rank8": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 1000
+        },
+        "rank4": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 1000000
+        },
+        "rank5": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100000
+        },
+        "rank6": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 10000
+        },
+        "rank7": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 1500
+        }
+      }
+    },
+    "next": {
+      "nr": 147,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Donnerstag, den 28.06.2018",
+        "day": 28,
+        "month": 6,
+        "year": 2018,
+        "hour": 19,
+        "minute": 0,
+        "dayOfWeek": "Donnerstag"
+      },
+      "closingDate": "28.06.2018, 18:30",
+      "lateClosingDate": "28.06.2018, 18:30",
+      "drawingDate": "28.06.2018, 19:00",
+      "jackpot": "50",
+      "marketingJackpot": "50",
+      "specialMarketingJackpot": "50",
+      "climbedSince": -1
+    }
+  },
+  "keno247": {
+    "last": {
+      "nr": 1956952,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Mittwoch, den 27.06.2018",
+        "day": 27,
+        "month": 6,
+        "year": 2018,
+        "hour": 19,
+        "minute": 0,
+        "dayOfWeek": "Mittwoch"
+      },
+      "closingDate": "27.06.2018, 18:59",
+      "lateClosingDate": "27.06.2018, 18:59",
+      "drawingDate": "27.06.2018, 19:00",
+      "numbers": [
+        6,
+        7,
+        8,
+        9,
+        11,
+        13,
+        20,
+        35,
+        49,
+        50,
+        52,
+        54,
+        56,
+        57,
+        58,
+        64,
+        73,
+        74,
+        75,
+        76
+      ],
+      "jackpot": "10",
+      "marketingJackpot": "10",
+      "specialMarketingJackpot": "10",
+      "climbedSince": 1,
+      "Winners": 0,
+      "odds": {
+        "KENO247_4_rank4": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 12000
+        },
+        "KENO247_9_rank5": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 500
+        },
+        "KENO247_10_rank5": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 200
+        },
+        "KENO247_9_rank6": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 2000
+        },
+        "KENO247_10_rank6": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 600
+        },
+        "KENO247_9_rank4": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100
+        },
+        "KENO247_10_rank4": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100
+        },
+        "KENO247_4_rank3": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 400
+        },
+        "KENO247_4_rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100
+        },
+        "KENO247_7_rank7": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 500000
+        },
+        "KENO247_7_rank5": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 1200
+        },
+        "KENO247_7_rank6": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 12500
+        },
+        "KENO247_7_rank3": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100
+        },
+        "KENO247_8_rank8": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 2500000
+        },
+        "KENO247_7_rank4": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 300
+        },
+        "KENO247_5_rank4": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 1400
+        },
+        "KENO247_10_rank9": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 1000000
+        },
+        "KENO247_5_rank3": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 200
+        },
+        "KENO247_10_rank7": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 5000
+        },
+        "KENO247_2_rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 1200
+        },
+        "KENO247_5_rank5": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 64000
+        },
+        "KENO247_10_rank8": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 58000
+        },
+        "KENO247_3_rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100
+        },
+        "KENO247_3_rank3": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 4400
+        },
+        "KENO247_10_rank10": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100000000
+        },
+        "KENO247_8_rank4": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 200
+        },
+        "KENO247_8_rank5": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 700
+        },
+        "KENO247_8_rank6": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 6000
+        },
+        "KENO247_8_rank7": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 67500
+        },
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "KENO247_9_rank9": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 10000000
+        },
+        "KENO247_1_rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 300
+        },
+        "KENO247_9_rank7": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 21000
+        },
+        "KENO247_6_rank6": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 180000
+        },
+        "KENO247_9_rank8": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 250000
+        },
+        "KENO247_6_rank5": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 8000
+        },
+        "KENO247_6_rank4": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 500
+        },
+        "KENO247_6_rank3": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100
+        }
+      }
+    },
+    "next": {
+      "nr": 1956953,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Mittwoch, den 27.06.2018",
+        "day": 27,
+        "month": 6,
+        "year": 2018,
+        "hour": 19,
+        "minute": 4,
+        "dayOfWeek": "Mittwoch"
+      },
+      "closingDate": "27.06.2018, 19:03",
+      "lateClosingDate": "27.06.2018, 19:03",
+      "drawingDate": "27.06.2018, 19:04",
+      "jackpot": "10",
+      "marketingJackpot": "10",
+      "specialMarketingJackpot": "10",
+      "climbedSince": 1
+    }
+  },
+  "euroMillionsGo": {
+    "last": {
+      "nr": 2530,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Mittwoch, den 27.06.2018",
+        "day": 27,
+        "month": 6,
+        "year": 2018,
+        "hour": 19,
+        "minute": 0,
+        "dayOfWeek": "Mittwoch"
+      },
+      "closingDate": "27.06.2018, 18:55",
+      "lateClosingDate": "27.06.2018, 19:00",
+      "drawingDate": "27.06.2018, 19:00",
+      "numbers": [
+        1,
+        10,
+        18,
+        43,
+        45
+      ],
+      "stars": [
+        1,
+        9
+      ],
+      "jackpot": "36",
+      "marketingJackpot": "36",
+      "specialMarketingJackpot": "36",
+      "climbedSince": -1,
+      "Winners": 0,
+      "odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 3600000000,
+          "prize": 3600000000
+        },
+        "rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 30000000
+        },
+        "rank3": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 3500000
+        },
+        "rank8": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 2000
+        },
+        "rank9": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 1500
+        },
+        "rank10": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 1200
+        },
+        "rank4": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 300000
+        },
+        "rank13": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 450
+        },
+        "rank5": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 15000
+        },
+        "rank14": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 300
+        },
+        "rank6": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 10000
+        },
+        "rank11": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 1000
+        },
+        "rank7": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 6000
+        },
+        "rank12": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 800
+        }
+      }
+    },
+    "next": {
+      "nr": 2531,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Mittwoch, den 27.06.2018",
+        "day": 27,
+        "month": 6,
+        "year": 2018,
+        "hour": 20,
+        "minute": 0,
+        "dayOfWeek": "Mittwoch"
+      },
+      "closingDate": "27.06.2018, 19:55",
+      "lateClosingDate": "27.06.2018, 20:00",
+      "drawingDate": "27.06.2018, 20:00",
+      "jackpot": "36",
+      "marketingJackpot": "36",
+      "specialMarketingJackpot": "36",
+      "climbedSince": -1
+    }
+  },
+  "elNino": {
+    "last": {
+      "nr": 108,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Samstag, den 06.01.2018",
+        "day": 6,
+        "month": 1,
+        "year": 2018,
+        "hour": 12,
+        "minute": 0,
+        "dayOfWeek": "Samstag"
+      },
+      "closingDate": "06.01.2018, 11:00",
+      "lateClosingDate": "06.01.2018, 11:00",
+      "drawingDate": "06.01.2018, 12:00",
+      "numbers": {
+        
+      },
+      "jackpot": "630",
+      "marketingJackpot": "630",
+      "climbedSince": -1,
+      "Winners": 0,
+      "odds": {
+        "rank15": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 20000
+        },
+        "rank16": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 20000
+        },
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 200000000
+        },
+        "rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 75000000
+        },
+        "rank3": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 25000000
+        },
+        "rank8": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100000
+        },
+        "rank9": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100000
+        },
+        "rank10": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100000
+        },
+        "rank4": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 1200000
+        },
+        "rank13": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 40000
+        },
+        "rank5": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 610000
+        },
+        "rank14": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 40000
+        },
+        "rank6": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 350000
+        },
+        "rank11": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100000
+        },
+        "rank7": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100000
+        },
+        "rank12": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 100000
+        }
+      }
+    },
+    "next": {
+      "nr": 109,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Sonntag, den 06.01.2019",
+        "day": 6,
+        "month": 1,
+        "year": 2019,
+        "hour": 12,
+        "minute": 0,
+        "dayOfWeek": "Sonntag"
+      },
+      "closingDate": "06.01.2019, 11:00",
+      "lateClosingDate": "06.01.2019, 11:00",
+      "drawingDate": "06.01.2019, 12:00",
+      "jackpot": "630",
+      "marketingJackpot": "630",
+      "climbedSince": -1
+    }
+  },
+  "powerBall": {
+    "last": {
+      "nr": 2732,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Sonntag, den 24.06.2018",
+        "day": 24,
+        "month": 6,
+        "year": 2018,
+        "hour": 5,
+        "minute": 0,
+        "dayOfWeek": "Sonntag"
+      },
+      "closingDate": "24.06.2018, 04:00",
+      "lateClosingDate": "24.06.2018, 04:00",
+      "drawingDate": "24.06.2018, 05:00",
+      "numbers": [
+        16,
+        29,
+        43,
+        45,
+        56
+      ],
+      "powerballs": [
+        25
+      ],
+      "jackpot": "34.28620409",
+      "marketingJackpot": "35",
+      "specialMarketingJackpot": "35",
+      "climbedSince": 1,
+      "Winners": 364084,
+      "odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 3428620409
+        },
+        "rank2": {
+          "winners": 3,
+          "specialPrize": 0,
+          "prize": 85715510
+        },
+        "rank3": {
+          "winners": 13,
+          "specialPrize": 0,
+          "prize": 4285776
+        },
+        "rank8": {
+          "winners": 96517,
+          "specialPrize": 0,
+          "prize": 343
+        },
+        "rank9": {
+          "winners": 239545,
+          "specialPrize": 0,
+          "prize": 343
+        },
+        "rank4": {
+          "winners": 223,
+          "specialPrize": 0,
+          "prize": 8572
+        },
+        "rank5": {
+          "winners": 563,
+          "specialPrize": 0,
+          "prize": 8572
+        },
+        "rank6": {
+          "winners": 14947,
+          "specialPrize": 0,
+          "prize": 600
+        },
+        "rank7": {
+          "winners": 12273,
+          "specialPrize": 0,
+          "prize": 600
+        }
+      },
+      "powerplay": 2
+    },
+    "next": {
+      "nr": 2733,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Donnerstag, den 28.06.2018",
+        "day": 28,
+        "month": 6,
+        "year": 2018,
+        "hour": 5,
+        "minute": 0,
+        "dayOfWeek": "Donnerstag"
+      },
+      "closingDate": "28.06.2018, 04:00",
+      "lateClosingDate": "28.06.2018, 04:00",
+      "drawingDate": "28.06.2018, 05:00",
+      "jackpot": "42.88091113",
+      "marketingJackpot": "43",
+      "specialMarketingJackpot": "43",
+      "climbedSince": 2
+    }
+  },
+  "euroJackpot": {
+    "last": {
+      "nr": 327,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Freitag, den 22.06.2018",
+        "day": 22,
+        "month": 6,
+        "year": 2018,
+        "hour": 21,
+        "minute": 0,
+        "dayOfWeek": "Freitag"
+      },
+      "closingDate": "22.06.2018, 19:00",
+      "lateClosingDate": "22.06.2018, 20:15",
+      "drawingDate": "22.06.2018, 21:00",
+      "numbers": [
+        16,
+        24,
+        33,
+        35,
+        43
+      ],
+      "euroNumbers": [
+        6,
+        7
+      ],
+      "jackpot": "90",
+      "marketingJackpot": "90",
+      "specialMarketingJackpot": "90",
+      "climbedSince": 13,
+      "Winners": 1638435,
+      "odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 9000000000
+        },
+        "rank2": {
+          "winners": 11,
+          "specialPrize": 0,
+          "prize": 217340710
+        },
+        "rank3": {
+          "winners": 20,
+          "specialPrize": 0,
+          "prize": 6317840
+        },
+        "rank8": {
+          "winners": 55962,
+          "specialPrize": 0,
+          "prize": 2330
+        },
+        "rank9": {
+          "winners": 77501,
+          "specialPrize": 0,
+          "prize": 1630
+        },
+        "rank10": {
+          "winners": 121233,
+          "specialPrize": 0,
+          "prize": 1490
+        },
+        "rank4": {
+          "winners": 93,
+          "specialPrize": 0,
+          "prize": 452890
+        },
+        "rank5": {
+          "winners": 1917,
+          "specialPrize": 0,
+          "prize": 19770
+        },
+        "rank6": {
+          "winners": 2817,
+          "specialPrize": 0,
+          "prize": 10460
+        },
+        "rank11": {
+          "winners": 291643,
+          "specialPrize": 0,
+          "prize": 1120
+        },
+        "rank7": {
+          "winners": 4160,
+          "specialPrize": 0,
+          "prize": 6070
+        },
+        "rank12": {
+          "winners": 1083078,
+          "specialPrize": 0,
+          "prize": 740
+        }
+      }
+    },
+    "next": {
+      "nr": 328,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Freitag, den 29.06.2018",
+        "day": 29,
+        "month": 6,
+        "year": 2018,
+        "hour": 21,
+        "minute": 0,
+        "dayOfWeek": "Freitag"
+      },
+      "closingDate": "29.06.2018, 19:00",
+      "lateClosingDate": "29.06.2018, 20:15",
+      "drawingDate": "29.06.2018, 21:00",
+      "jackpot": "90",
+      "marketingJackpot": "90",
+      "specialMarketingJackpot": "90",
+      "climbedSince": 14
+    }
+  },
+  "extraPlat": {
+    "last": {
+      "nr": 6,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Dienstag, den 26.06.2018",
+        "day": 26,
+        "month": 6,
+        "year": 2018,
+        "hour": 21,
+        "minute": 0,
+        "dayOfWeek": "Dienstag"
+      },
+      "closingDate": "26.06.2018, 20:30",
+      "lateClosingDate": "26.06.2018, 20:30",
+      "drawingDate": "26.06.2018, 21:00",
+      "numbers": [
+        23,
+        29,
+        30,
+        36,
+        37
+      ],
+      "cashBall": [
+        4
+      ],
+      "jackpot": "1",
+      "marketingJackpot": "0",
+      "specialMarketingJackpot": "0",
+      "climbedSince": -1,
+      "Winners": 0,
+      "odds": {
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 115861864
+        },
+        "rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 9655155
+        },
+        "rank3": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 154482
+        },
+        "rank8": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 193
+        },
+        "rank4": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 38621
+        },
+        "rank5": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 3862
+        },
+        "rank6": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 1159
+        },
+        "rank7": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 386
+        }
+      }
+    },
+    "next": {
+      "nr": 7,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Mittwoch, den 27.06.2018",
+        "day": 27,
+        "month": 6,
+        "year": 2018,
+        "hour": 21,
+        "minute": 0,
+        "dayOfWeek": "Mittwoch"
+      },
+      "closingDate": "27.06.2018, 20:30",
+      "lateClosingDate": "27.06.2018, 20:30",
+      "drawingDate": "27.06.2018, 21:00",
+      "jackpot": "1",
+      "marketingJackpot": "0",
+      "specialMarketingJackpot": "0",
+      "climbedSince": -1
+    }
+  },
+  "multiMulti": {
+    "last": {
+      "nr": 11021,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Mittwoch, den 27.06.2018",
+        "day": 27,
+        "month": 6,
+        "year": 2018,
+        "hour": 14,
+        "minute": 0,
+        "dayOfWeek": "Mittwoch"
+      },
+      "closingDate": "27.06.2018, 13:45",
+      "lateClosingDate": "27.06.2018, 13:45",
+      "drawingDate": "27.06.2018, 14:00",
+      "numbers": [
+        6,
+        11,
+        12,
+        16,
+        17,
+        18,
+        33,
+        38,
+        39,
+        41,
+        48,
+        52,
+        53,
+        54,
+        56,
+        62,
+        64,
+        66,
+        72,
+        77
+      ],
+      "plus": [
+        18
+      ],
+      "jackpot": "0.06",
+      "marketingJackpot": "0.06",
+      "specialMarketingJackpot": "0.06",
+      "climbedSince": 1731,
+      "Winners": 0,
+      "odds": {
+        "MULTIMULTI5_rank3": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 92
+        },
+        "MULTIMULTI5_rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 461
+        },
+        "MULTIMULTI10_rank8": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "MULTIMULTI5_rank5": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "MULTIMULTI10_rank9": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "MULTIMULTI5_rank4": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "MULTIMULTI10_rank6": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 92
+        },
+        "MULTIMULTI10_rank10": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "MULTIMULTI10_rank7": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 46
+        },
+        "MULTIMULTI10_rank4": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 3227
+        },
+        "MULTIMULTI5_rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 16134
+        },
+        "MULTIMULTI10_rank5": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 277
+        },
+        "MULTIMULTI10_rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 230489
+        },
+        "MULTIMULTI10_rank3": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 11985
+        },
+        "MULTIMULTI10_rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 5762229
+        },
+        "MULTIMULTI8_rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 507076
+        },
+        "MULTIMULTI8_rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 13829
+        },
+        "MULTIMULTI9_rank8": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "MULTIMULTI9_rank9": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "MULTIMULTI9_rank6": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 46
+        },
+        "MULTIMULTI9_rank7": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "MULTIMULTI1_rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 92
+        },
+        "MULTIMULTI9_rank4": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 968
+        },
+        "MULTIMULTI9_rank5": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 184
+        },
+        "MULTIMULTI9_rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 46098
+        },
+        "MULTIMULTI9_rank3": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 6915
+        },
+        "MULTIMULTI9_rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 1613424
+        },
+        "MULTIMULTI8_rank3": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 1383
+        },
+        "MULTIMULTI8_rank4": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 461
+        },
+        "MULTIMULTI8_rank5": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 92
+        },
+        "MULTIMULTI2_rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "MULTIMULTI8_rank6": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "MULTIMULTI2_rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 369
+        },
+        "MULTIMULTI8_rank7": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "MULTIMULTI8_rank8": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "MULTIMULTI7_rank6": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "MULTIMULTI3_rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 1245
+        },
+        "MULTIMULTI7_rank7": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "MULTIMULTI7_rank4": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 92
+        },
+        "MULTIMULTI3_rank3": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "MULTIMULTI7_rank5": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 46
+        },
+        "MULTIMULTI3_rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 46
+        },
+        "MULTIMULTI6_rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 29964
+        },
+        "MULTIMULTI6_rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 2766
+        },
+        "MULTIMULTI6_rank3": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 184
+        },
+        "MULTIMULTI6_rank4": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 46
+        },
+        "MULTIMULTI6_rank5": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "MULTIMULTI6_rank6": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "MULTIMULTI4_rank4": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "MULTIMULTI4_rank3": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 46
+        },
+        "MULTIMULTI4_rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 184
+        },
+        "MULTIMULTI4_rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 1936
+        },
+        "rank0": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 0
+        },
+        "MULTIMULTI7_rank2": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 4610
+        },
+        "MULTIMULTI7_rank3": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 461
+        },
+        "MULTIMULTI7_rank1": {
+          "winners": 0,
+          "specialPrize": 0,
+          "prize": 138293
+        }
+      },
+      "bonus": "0"
+    },
+    "next": {
+      "nr": 11022,
+      "currency": "EUR",
+      "date": {
+        "full": "Die Lottozahlen vom Mittwoch, den 27.06.2018",
+        "day": 27,
+        "month": 6,
+        "year": 2018,
+        "hour": 21,
+        "minute": 40,
+        "dayOfWeek": "Mittwoch"
+      },
+      "closingDate": "27.06.2018, 21:30",
+      "lateClosingDate": "27.06.2018, 21:30",
+      "drawingDate": "27.06.2018, 21:40",
+      "jackpot": "0.06",
+      "marketingJackpot": "0.06",
+      "specialMarketingJackpot": "0.06",
+      "climbedSince": 1732,
+      "bonus": "0"
+    }
+  }
+}

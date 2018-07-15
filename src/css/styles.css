@@ -1,0 +1,671 @@
+/* --------------------------------------------------------------------------------------------- */
+/*
+Fonts
+*/
+
+@font-face {
+	font-family: 'Daxline Pro 200';
+	src: 
+		url('../fonts/200/normal.eot'),
+		url('../fonts/200/normal.ttf') format("truetype"),
+		url('../fonts/200/normal.woff') format('woff'),
+		url('../fonts/200/normal.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Daxline Pro 400';
+	src: 
+		url('../fonts/400/normal.eot'),
+		url('../fonts/400/normal.ttf') format("truetype"),
+		url('../fonts/400/normal.woff') format('woff'),
+		url('../fonts/400/normal.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Daxline Pro 500';
+	src: 
+		url('../fonts/500/normal.eot'),
+		url('../fonts/500/normal.ttf') format("truetype"),
+		url('../fonts/500/normal.woff') format('woff'),
+		url('../fonts/500/normal.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Daxline Pro 700';
+	src: 
+		url('../fonts/700/normal.eot'),
+		url('../fonts/700/normal.ttf') format("truetype"),
+		url('../fonts/700/normal.woff') format('woff'),
+		url('../fonts/700/normal.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Daxline Pro 800';
+	src: 
+		url('../fonts/800/normal.eot'),
+		url('../fonts/800/normal.ttf') format("truetype"),
+		url('../fonts/800/normal.woff') format('woff'),
+		url('../fonts/800/normal.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Daxline Pro 900';
+	src: 
+		url('../fonts/900/normal.eot'),
+		url('../fonts/900/normal.ttf') format("truetype"),
+		url('../fonts/900/normal.woff') format('woff'),
+		url('../fonts/900/normal.woff2') format('woff2');
+}
+
+/* --------------------------------------------------------------------------------------------- */
+/*
+Basic styles
+*/
+
+.green-colour {
+	color: #69A507;
+}
+
+.black-colour {
+	color: black;
+}
+
+.bold {
+    font-family: 'Daxline Pro 700';
+}
+
+.line {
+    border-left: thin solid;
+    padding-left: 14px;
+    margin-left: 14px;
+}
+
+.break-line {
+  display: inline-block;
+}
+
+/* --------------------------------------------------------------------------------------------- */
+/*
+site
+	header
+	precontent1
+	content1
+	precontent2
+	content2
+*/
+
+.site {
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: 1fr auto;
+	grid-template-areas: 
+		"header"
+		"content";
+}
+
+/* --------------------------------------------------------------------------------------------- */
+/*
+header
+	logo	home-text	join
+*/
+
+.header {
+	grid-area:header;
+	display: grid;
+	background: linear-gradient(270deg, #F2F4F2 0%, #FFFFFF 100%);
+	box-shadow: 0 1px 0 0 #D9DEDA;
+}
+
+.logo {
+	grid-area:logo;
+	background: url('../images/logo.png') no-repeat;
+    width: 128px;
+    height: 40px;
+    justify-self: center; /* horizontal align */
+    align-self: center; /* vertical align */
+}
+
+.home-text {
+	grid-area:home-text;
+	color: #69A507;
+    justify-self: end; /* horizontal align */
+    align-self: center; /* vertical align */
+    font-family: 'PT Sans', sans-serif;
+    font-style: italic;
+    font-size: 17px;
+}
+
+.join {
+	grid-area:join;
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: 1fr;
+	grid-template-areas: 
+		"join-text";
+	border-radius: 2px;
+	background: linear-gradient(90deg, #A5CD28 0%, #69A507 100%);
+	box-shadow: 0 4px 7px 0 rgba(1,36,6,0.2);
+	justify-self: center; /* horizontal align */
+    align-self: center; /* vertical align */
+}
+
+/* --------------------------------------------------------------------------------------------- */
+/* 
+join
+	join-text
+*/
+
+.join-text {
+	grid-area: join-text;
+	justify-self: center; /* horizontal align */
+    align-self: center; /* vertical align */
+    color: white;
+    font-family: 'Daxline Pro 900';
+}
+
+/* --------------------------------------------------------------------------------------------- */
+/*
+content
+	inner-content
+		title1
+		list1
+		banner
+		title2
+		list2
+*/
+
+.content {
+	grid-area:content;
+	display: grid;
+	grid-template-areas: 
+		". inner-content .";
+}
+
+.inner-content {
+	grid-area:inner-content;
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: auto auto auto auto auto;
+	grid-template-areas: 
+		"title1"
+		"list1"
+		"banner"
+		"title2"
+		"list2";
+}
+
+/* --------------------------------------------------------------------------------------------- */
+/*
+title1
+	title1-text
+	smile	
+*/
+
+.title1 {
+	grid-area:title1;
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: auto 1fr;
+	grid-template-areas: 
+		"title1-text"
+		"smile";
+	padding: 14px;
+}
+
+.title1-text {
+	grid-area: title1-text;
+	justify-self: center; /* horizontal align */
+    align-self: end; /* vertical align */
+    font-family: 'Daxline Pro 900';
+    font-size: 28px;
+    text-align: center;
+}
+
+.smile {
+	grid-area: smile;
+	background: url('../images/smile.png') no-repeat;
+    width: 120px;
+    height: 26px;
+    justify-self: center; /* horizontal align */
+    align-self: start; /* vertical align */
+}
+
+/* --------------------------------------------------------------------------------------------- */
+/*
+list1
+	lotto-container1, lotto-container2...
+*/
+
+.list1 {
+	grid-area: list1;
+	display:flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-items: flex-start;
+}
+
+/* --------------------------------------------------------------------------------------------- */
+/*
+list2
+	lotto-container1, lotto-container2...
+*/
+
+.list2 {
+	grid-area: list2;
+	display:flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-items: flex-start;
+}
+
+/* --------------------------------------------------------------------------------------------- */
+/*
+lotto-container
+	strip-color	lotto-mainbox
+*/
+/*
+lotto-mainbox
+	lotto-mainbox-image
+	lotto-mainbox-numbers
+*/
+
+.lotto-mainbox {
+	grid-area: lotto-mainbox;
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: 154px auto;
+	grid-template-areas: 
+		"lotto-mainbox-image"
+		"lotto-mainbox-numbers";
+}
+
+/* --------------------------------------------------------------------------------------------- */
+/*
+lotto-mainbox-image
+	lotto-mainbox-image-text
+	lotto-mainbox-image-navigation
+*/
+
+.lotto-mainbox-image {
+	grid-area: lotto-mainbox-image;
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: 2fr 1fr;
+	grid-template-areas: 
+		"lotto-mainbox-image-text"
+		"lotto-mainbox-image-navigation";
+    height: 154px;
+}
+
+/* --------------------------------------------------------------------------------------------- */
+/*
+lotto-mainbox-image-text
+	lotto-mainbox-image-text1
+	lotto-mainbox-image-text2
+*/
+
+.lotto-mainbox-image-text {
+	grid-area: lotto-mainbox-image-text;
+	background-color: rgba(51,51,51,0.2);
+}
+
+/* --------------------------------------------------------------------------------------------- */
+/*
+lotto-mainbox-image-navigation
+	lotto-mainbox-image-navigation-arrowleft 	lotto-mainbox-image-navigation-content 	lotto-mainbox-image-navigation-arrowright
+*/
+
+.lotto-mainbox-image-navigation {
+	grid-area: lotto-mainbox-image-navigation;
+	display: grid;
+	grid-template-columns: 1fr 2fr 1fr;
+	grid-template-rows: 1fr;
+	grid-template-areas: 
+		"lotto-mainbox-image-navigation-arrowleft lotto-mainbox-image-navigation-content lotto-mainbox-image-navigation-arrowright";
+	background-color: rgba(0,0,0,0.4);	
+}
+
+.lotto-mainbox-image-navigation-arrowleft {
+	grid-area: lotto-mainbox-image-navigation-arrowleft;
+	font-size:30px;
+	justify-self: center; /* horizontal align */
+    align-self: center; /* vertical align */
+    font-family: 'Sans Serif';
+    color: white;
+}
+
+.lotto-mainbox-image-navigation-arrowright {
+	grid-area: lotto-mainbox-image-navigation-arrowright;
+	font-size:30px;
+	justify-self: center; /* horizontal align */
+    align-self: center; /* vertical align */
+    color: white;
+}
+
+/* --------------------------------------------------------------------------------------------- */
+/*
+lotto-mainbox-image-navigation-content
+	lotto-mainbox-image-navigation-content-text1
+	lotto-mainbox-image-navigation-content-text2
+*/
+
+.lotto-mainbox-image-navigation-content {
+	grid-area: lotto-mainbox-image-navigation-content;
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: 1fr 1fr;
+	grid-template-areas: 
+		"lotto-mainbox-image-navigation-content-text1"
+		"lotto-mainbox-image-navigation-content-text2";
+}	
+
+.lotto-mainbox-image-navigation-content-text1 {
+	grid-area: lotto-mainbox-image-navigation-content-text1;
+	justify-self: center; /* horizontal align */
+    align-self: center; /* vertical align */
+    font-family: 'Daxline Pro 900';
+    font-size: 14px;
+    color: white;
+}
+
+.lotto-mainbox-image-navigation-content-text2 {
+	grid-area: lotto-mainbox-image-navigation-content-text2;
+	justify-self: center; /* horizontal align */
+    align-self: center; /* vertical align */
+    font-family: 'Daxline Pro 300';
+    font-size: 14px;
+    color: #D3D3D3;
+}
+
+/* --------------------------------------------------------------------------------------------- */
+/*
+lotto-mainbox-numbers
+	lotto-mainbox-numbers-numberlist
+	lotto-mainbox-numbers-options
+*/
+
+.lotto-mainbox-numbers {
+	grid-area: lotto-mainbox-numbers;
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: auto 42px;
+	grid-template-areas: 
+		"lotto-mainbox-numbers-numberlist"
+		"lotto-mainbox-numbers-options";
+    justify-self: start; /* horizontal align */
+    align-self: start; /* vertical align */
+}
+
+.lotto-mainbox-numbers-options {
+	grid-area: lotto-mainbox-numbers-options;
+	justify-self: end; /* horizontal align */
+    align-self: center; /* vertical align */
+    color: #69A507;
+    font-family: 'Daxline Pro 900';
+    font-size: 14px;
+    padding-right: 14px;
+}
+
+/* --------------------------------------------------------------------------------------------- */
+/*
+lotto-mainbox-numbers-numberlist
+	lotto-mainbox-numbers-numberlist-winningnumbers 	lotto-mainbox-numbers-numberlist-supps
+*/
+
+/*
+lotto-mainbox-numbers-numberlist-winningnumbers
+	lotto-mainbox-numbers-numberlist-winningnumbers-text
+	lotto-mainbox-numbers-numberlist-winningnumbers-numbers
+*/
+
+.lotto-mainbox-numbers-numberlist-winningnumbers {
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: 42px 1fr;
+	grid-template-areas: 
+		"lotto-mainbox-numbers-numberlist-winningnumbers-text"
+		"lotto-mainbox-numbers-numberlist-winningnumbers-numbers";
+	flex: 1 0 1;
+}
+
+.lotto-mainbox-numbers-numberlist-winningnumbers-text {
+	grid-area: lotto-mainbox-numbers-numberlist-winningnumbers-text;
+	justify-self: start; /* horizontal align */
+    align-self: start; /* vertical align */
+    color: #012406;
+    font-family: 'Daxline Pro 500';
+    font-size: 14px;
+    padding-left: 14px;
+    padding-top: 14px;
+}
+
+.lotto-mainbox-numbers-numberlist-winningnumbers-numbers {
+	grid-area: lotto-mainbox-numbers-numberlist-winningnumbers-numbers;
+    padding-left: 14px;
+}
+
+/* --------------------------------------------------------------------------------------------- */
+/*
+lotto-mainbox-numbers-numberlist-supps
+	lotto-mainbox-numbers-numberlist-supps-text
+	lotto-mainbox-numbers-numberlist-supps-numbers
+*/
+
+.lotto-mainbox-numbers-numberlist-supps {
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: 42px 1fr;
+	grid-template-areas: 
+		"lotto-mainbox-numbers-numberlist-supps-text"
+		"lotto-mainbox-numbers-numberlist-supps-numbers";
+	flex: 1 0 1;
+}
+
+.lotto-mainbox-numbers-numberlist-supps-text {
+	grid-area: lotto-mainbox-numbers-numberlist-supps-text;
+	justify-self: start; /* horizontal align */
+    align-self: start; /* vertical align */
+    color: #012406;
+    font-family: 'Daxline Pro 500';
+    font-size: 14px;
+    padding-left: 14px;
+    padding-top: 14px;
+}
+
+.lotto-mainbox-numbers-numberlist-supps-numbers {
+	grid-area: lotto-mainbox-numbers-numberlist-supps-numbers;
+    padding-left: 14px;
+}
+
+/* --------------------------------------------------------------------------------------------- */
+
+/*
+title2
+	title2-text
+	smile	
+*/
+
+.title2 {
+	grid-area:title2;
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: 1fr 1fr;
+	grid-template-areas: 
+		"title2-text"
+		"smile";
+	align-self: center; /* vertical align */
+}
+
+.title2-text {
+	grid-area: title2-text;
+	justify-self: center; /* horizontal align */
+    align-self: end; /* vertical align */
+    font-family: 'Daxline Pro 900';
+    font-size: 28px;
+}
+
+/* --------------------------------------------------------------------------------------------- */
+/*
+banner
+	inner-banner
+*/
+
+.banner {
+	grid-area:banner;
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: 119px;
+	grid-template-areas: 
+		"inner-banner";
+}
+
+.inner-banner {
+	grid-area:inner-banner;
+	display: grid;
+	grid-template-columns: 1fr 3fr 1fr;
+	grid-template-rows: 77px;
+	grid-template-areas: 
+		"banner-image banner-text banner-link";
+	background-color: rgba(242,244,242,0.7);
+    align-self: center; /* vertical align */
+}
+
+/* --------------------------------------------------------------------------------------------- */
+/*
+inner-banner
+	banner-image 	banner-text 	banner-link
+*/
+
+.banner-image {
+	grid-area:banner-image;
+	display: grid;	
+    justify-self: end; /* horizontal align */
+    align-self: center; /* vertical align */
+	width: 73px;
+	height: 62px;
+}
+
+.banner-text {
+	grid-area:banner-text;
+	justify-self: center; /* horizontal align */
+    align-self: center; /* vertical align */
+    font-family: 'Daxline Pro 300';
+    font-size: 14px;
+	color: #012406;
+}
+
+.banner-link {
+	grid-area:banner-link;
+	display: grid;	
+	justify-self: start; /* horizontal align */
+    align-self: center; /* vertical align */
+    font-family: 'Daxline Pro 900';
+    font-size: 14px;
+    color: #69A507;
+}
+
+/* --------------------------------------------------------------------------------------------- */
+/*
+Media Queries
+*/
+/* --------------------------------------------------------------------------------------------- */
+/*
+320 px
+*/
+
+@media screen and (min-width: 320px) {
+	.content {
+		grid-template-columns: 1fr 320px 1fr;
+	}
+
+	.banner-image {
+		background: url('../images/320/kenoland.png') no-repeat;
+	}
+
+	.header {
+		grid-template-columns: 170px auto 170px;
+		grid-template-rows: 90px auto;
+		grid-template-areas: 
+			"logo . join"
+			"home-text . join";
+	}
+
+	.join {
+		height: 45px;
+		width: 120px;
+	}
+
+	.join-text {
+	    font-size: 18px;
+	}
+}
+
+/* --------------------------------------------------------------------------------------------- */
+/*
+768 px
+*/
+
+@media screen and (min-width: 768px) {
+	.content {
+		grid-template-columns: 1fr 768px 1fr;
+	}
+
+	.banner-image {
+		background: url('../images/1024/kenoland.png') no-repeat;
+		background-size: 73px;
+	}
+
+	.header {
+		grid-template-columns: 170px auto 127px;
+		grid-template-rows: 70px;
+		grid-template-areas: 
+			"logo home-text join";
+	}
+
+	.join {
+		height: 32px;
+		width: 85px;
+	}
+
+	.join-text {
+		font-size: 14px;
+	}
+
+}
+
+/* --------------------------------------------------------------------------------------------- */
+/*
+1024 px
+*/
+
+@media screen and (min-width: 1024px) {
+	.content {
+		grid-template-columns: 1fr 1024px 1fr;
+	}
+
+	.banner-image {
+		background: url('../images/1024/kenoland.png') no-repeat;
+		background-size: 73px;
+	}
+
+	.header {
+		grid-template-columns: 170px auto 127px;
+		grid-template-rows: 70px;
+		grid-template-areas: 
+			"logo home-text join";
+	}
+
+	.join {
+		height: 32px;
+		width: 85px;
+	}
+
+	.join-text {
+		font-size: 14px;
+	}
+
+}
+
+/* --------------------------------------------------------------------------------------------- */
+
+

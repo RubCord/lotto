@@ -1,0 +1,121 @@
+{  
+   "list1":[  
+      {  
+         "name":"monWedOz",
+         "time":"last",
+         "columnspan":"2",
+         "image":"creat-3452_AUS_LP_australian_results_traffic_LOTTO.png",
+         "maintext":"MON & WED LOTTO",
+         "sizemaintext":"big",
+         "subtext":"Monday & Wednesday Lotto",
+         "stripcolor":"#714C9C",
+         "suppscolor":"#DE3436"
+      },
+      {  
+         "name":"keNow",
+         "time":"last",
+         "columnspan":"1",
+         "image":"creat-3452_AUS_LP_australian_results_traffic_LL_keno.png",
+         "maintext":"KENOLAND",
+         "sizemaintext":"small",
+         "subtext":"Draws every 4 minutes",
+         "stripcolor":"#714C9C",
+         "suppscolor":"#C53422"
+      },
+      {  
+         "name":"ozPowerBall",
+         "time":"last",
+         "columnspan":"1",
+         "image":"creat-3452_AUS_LP_australian_results_traffic_LL_FriLotto.png",
+         "maintext":"POWERBALL",
+         "sizemaintext":"small",
+         "subtext":"Drawn every Thursday",
+         "stripcolor":"#2F74AF",
+         "suppscolor":"#2F74AF"
+      },
+      {  
+         "name":"uKLotto",
+         "time":"last",
+         "columnspan":"1",
+         "image":"creat-3452_AUS_LP_australian_results_traffic_TATTS.png",
+         "maintext":"TATTSLOTTO",
+         "sizemaintext":"small",
+         "subtext":"X Lotto, Gold Lotto, Saturday Lotto",
+         "stripcolor":"#DE3436",
+         "suppscolor":"#DE3436"
+      },
+      {  
+         "name":"ozLotto",
+         "time":"last",
+         "columnspan":"1",
+         "image":"creat-3452_AUS_LP_australian_results_traffic_OZlotto.png",
+         "maintext":"OZ LOTTO",
+         "sizemaintext":"small",
+         "subtext":"Drawn every Tuesday",
+         "stripcolor":"#469E3C",
+         "suppscolor":"#469E3C"
+      }
+   ],
+   "list2":[
+      {  
+         "name":"powerBall",
+         "time":"last",
+         "columnspan":"2",
+         "image":"com-au-Powerball_124px.png",
+         "maintext":"US POWER",
+         "sizemaintext":"big",
+         "subtext":"$50 Million*",
+         "stripcolor":"#fa6a52",
+         "suppscolor":"#fa6a52",
+         "gradientcolor":"#E92A2A"
+      },
+      {  
+         "name":"worldMillions",
+         "time":"last",
+         "columnspan":"1",
+         "image":"int_world-millions_124px.png",
+         "maintext":"WORLD MILLIONS",
+         "sizemaintext":"small",
+         "subtext":"$50 Million",
+         "stripcolor":"#51a7e4",
+         "suppscolor":"#51a7e4",
+         "gradientcolor":"#1A4088"
+      },
+      {  
+         "name":"megaMillions",
+         "time":"last",
+         "columnspan":"1",
+         "image":"int-megamillions_124px.png",
+         "maintext":"US MEGA MILLIONS",
+         "sizemaintext":"small",
+         "subtext":"$50 Million*",
+         "stripcolor":"#88addf",
+         "suppscolor":"#88addf",
+         "gradientcolor":"#E92A2A"
+      },
+      {  
+         "name":"keno247",
+         "time":"last",
+         "columnspan":"1",
+         "image":"Keno24-7_124x124.png",
+         "maintext":"KENO 24/7",
+         "sizemaintext":"small",
+         "subtext":"$50 Million",
+         "stripcolor":"#ed1a3b",
+         "suppscolor":"#ed1a3b",
+         "gradientcolor":"#E92A2A"
+      },
+      {  
+         "name":"fridayLotto",
+         "time":"last",
+         "columnspan":"1",
+         "image":"FRI-lotto_logo_124px.png",
+         "maintext":"FRI LOTTO",
+         "sizemaintext":"small",
+         "subtext":"$50 Million",
+         "stripcolor":"#E0017C",
+         "suppscolor":"#E0017C",
+         "gradientcolor":"#E92A2A"
+      }
+   ]    
+}
